@@ -26,7 +26,7 @@ SECRET_KEY = os.environ["DJANGO_SECRET_KEY"]
 
 DEBUG = False
 TEMPLATE_DEBUG = False
-if os.environ.get("I_AM_IN_DEV_ENV"):
+if True or os.environ.get("I_AM_IN_DEV_ENV"):
     DEBUG = True
     TEMPLATE_DEBUG = True
 
