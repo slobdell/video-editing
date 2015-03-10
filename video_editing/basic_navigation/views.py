@@ -31,7 +31,7 @@ def home(request):
     render_data = {
         "worker_id": request.GET.get("workerId", ""),
         "assignment_id": request.GET.get("assignmentId"),
-        "amazon_host": AMAZON_HOST + "/",
+        "amazon_host": AMAZON_HOST,
         "hit_id": hit_id
     }
 
