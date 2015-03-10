@@ -2,6 +2,7 @@ import json
 import os
 import requests
 
+import urllib
 from django.http import Http404
 from django.http import HttpResponse
 
@@ -30,14 +31,16 @@ def requires_post(fn):
 @requires_post
 def submit(request, post_data=None):
     post_data = post_data or {}
-    hit_id = post_data.get("hitId", "")
+    # hit_id = post_data.get("hitId", "")
     assignment_id = post_data.get("assignmentId", "")
     post_data = {
         # "hitId": hit_id,
         "assignmentId": assignment_id,
         "actor": post_data.get("actor", "")
     }
-    response = requests.post(AMAZON_HOST, post_data)
+    final_url = AMAZON_HOST + "?" + urllib.urlencode(post_data)
+    response = requests.post(final_url, post_data)
+    print final_url
     print response.content
     print response.status_code
     return render_to_json({"content": response.content}, status=200)
