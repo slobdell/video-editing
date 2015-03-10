@@ -9,6 +9,12 @@ from django.http import HttpResponse
 from django.shortcuts import render_to_response
 
 
+if True or os.environ.get("I_AM_IN_DEV_ENV"):
+    AMAZON_HOST = "https://workersandbox.mturk.com/mturk/externalSubmit"
+else:
+    AMAZON_HOST = "https://www.mturk.com/mturk/externalSubmit"
+
+
 def render_to_json(data, status=200):
     return HttpResponse(json.dumps(data), content_type="application/json", status=status)
 
@@ -25,6 +31,7 @@ def home(request):
     render_data = {
         "worker_id": request.GET.get("workerId", ""),
         "assignment_id": request.GET.get("assignmentId"),
+        "amazon_host": AMAZON_HOST,
         "hit_id": hit_id
     }
 
