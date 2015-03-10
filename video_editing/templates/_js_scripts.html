@@ -1,0 +1,33 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+    var postForm = function(){
+        var postData = {
+            hitId: $("#hitId").val(),
+            assignmentId: $("#assignmentId").val(),
+            actor: $.trim($("#actor").val())
+        }
+        $("input[type='submit']").hide();
+        $.ajax({
+            url: '/api/submit/',
+            data: JSON.stringify(postData),
+            cache: false,
+            dataType: 'json',
+            traditional: true,
+            type: 'POST',
+            contentType: "application/json; charset=utf-8",
+            success: function(response){
+                alert("success");
+            },
+            error: function(data){
+                alert("error");
+            }
+        });
+    };
+    $(document).ready(function(){
+        $("input[type='submit']").on("click", function(){
+            postForm();
+        });
+    });
+</script>
