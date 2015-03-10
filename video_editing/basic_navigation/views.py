@@ -23,7 +23,7 @@ def home(request):
         pass
     hit_id = request.GET.get("hitId", "")
     render_data = {
-        "worker_id": request.GET.get("workedId", ""),
+        "worker_id": request.GET.get("workerId", ""),
         "assignment_id": request.GET.get("assignmentId"),
         "hit_id": hit_id
     }
