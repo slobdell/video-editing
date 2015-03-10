@@ -38,4 +38,6 @@ def submit(request, post_data=None):
         "actor": post_data.get("actor", "")
     }
     response = requests.post(AMAZON_HOST, post_data)
+    print response.content
+    print response.status_code
     return render_to_json({"content": response.content}, status=200)
