@@ -37,5 +37,5 @@ def submit(request, post_data=None):
         "assignmentId": assignment_id,
         "actor": post_data.get("actor", "")
     }
-    requests.post(AMAZON_HOST, post_data)
-    return render_to_json({}, status=204)
+    response = requests.post(AMAZON_HOST, post_data)
+    return render_to_json({"content": response.content}, status=200)
