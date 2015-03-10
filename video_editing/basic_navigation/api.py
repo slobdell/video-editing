@@ -31,10 +31,10 @@ def requires_post(fn):
 @requires_post
 def submit(request, post_data=None):
     post_data = post_data or {}
-    # hit_id = post_data.get("hitId", "")
+    hit_id = post_data.get("hitId", "")
     assignment_id = post_data.get("assignmentId", "")
     post_data = {
-        # "hitId": hit_id,
+        "hitId": hit_id,
         "assignmentId": assignment_id,
         "actor": post_data.get("actor", "")
     }
