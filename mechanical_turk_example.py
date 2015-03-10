@@ -6,20 +6,20 @@ from boto.mturk.price import Price
 AWS_ACCESS_KEY_ID = os.environ['AWS_ACCESS_KEY_ID']
 AWS_SECRET_ACCESS_KEY = os.environ['AWS_SECRET_ACCESS_KEY']
 
-# HOST = 'mechanicalturk.amazonaws.com'
-HOST = 'mechanicalturk.sandbox.amazonaws.com'
+if os.environ.get("I_AM_IN_DEV_ENV"):
+    HOST = 'mechanicalturk.sandbox.amazonaws.com'
+else:
+    HOST = 'mechanicalturk.amazonaws.com'
 
 connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
                              aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                              host=HOST)
 
-# hit = connection.get_hit("3S8A4GJRD22XNRRHHX41B0AX8ES6VF")[0]
-
 url = "https://mturk-demonstration.herokuapp.com/"
-title = "Tell me your favorite actor/actress"
-description = "This is a really simple question. That's it."
+title = "Describe a picture in your own words"
+description = "Very simple description in your own words"
 keywords = ["easy"]
-frame_height = 500  # the height of the iframe holding the external hit
+frame_height = 800
 amount = .05
 
 questionform = ExternalQuestion(url, frame_height)
@@ -30,6 +30,7 @@ for _ in xrange(10):
         title=title,
         description=description,
         keywords=keywords,
+        max_assignments=1000,
         question=questionform,
         reward=Price(amount=amount),
         response_groups=('Minimal', 'HITDetail'),  # I don't know what response groups are

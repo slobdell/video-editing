@@ -1,6 +1,6 @@
 # import datetime
 import json
-# import os
+import os
 
 # from django.conf import settings
 from django.http import HttpResponse
@@ -9,7 +9,7 @@ from django.http import HttpResponse
 from django.shortcuts import render_to_response
 
 
-if True or os.environ.get("I_AM_IN_DEV_ENV"):
+if os.environ.get("I_AM_IN_DEV_ENV"):
     AMAZON_HOST = "https://workersandbox.mturk.com/mturk/externalSubmit"
 else:
     AMAZON_HOST = "https://www.mturk.com/mturk/externalSubmit"

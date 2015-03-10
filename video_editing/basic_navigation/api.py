@@ -1,16 +1,8 @@
 import json
-import os
 import requests
 
-import urllib
 from django.http import Http404
 from django.http import HttpResponse
-
-
-if True or os.environ.get("I_AM_IN_DEV_ENV"):
-    AMAZON_HOST = "https://workersandbox.mturk.com/mturk/externalSubmit"
-else:
-    AMAZON_HOST = "https://www.mturk.com/mturk/externalSubmit"
 
 
 def render_to_json(response_obj, context={}, content_type="application/json", status=200):
@@ -30,6 +22,7 @@ def requires_post(fn):
 
 @requires_post
 def submit(request, post_data=None):
+    # DELETE
     post_data = post_data or {}
     hit_id = post_data.get("hitId", "")
     assignment_id = post_data.get("assignmentId", "")
@@ -39,7 +32,7 @@ def submit(request, post_data=None):
         "assignmentId": assignment_id,
         "actor": post_data.get("actor", "")
     }
-    final_url = AMAZON_HOST + "?" + urllib.urlencode(post_data)
+    final_url = ""
     response = requests.post(final_url, post_data)
     print final_url
     print response.content
