@@ -25,21 +25,12 @@ amount = .05
 questionform = ExternalQuestion(url, frame_height)
 
 
-create_hit_result = connection.create_hit(
-    title=title,
-    description=description,
-    keywords=keywords,
-    question=questionform,
-    reward=Price(amount=amount),
-    response_groups=('Minimal', 'HITDetail'),  # I don't know what response groups are
-)
-
-task = create_hit_result[0]
-print task.HITId
-
-# POST back to:
-# https://www.mturk.com/mturk/externalSubmit
-# OR
-# https://workersandbox.mturk.com/mturk/externalSubmit
-
-# assignmentId must be included in POST parameters
+for _ in xrange(10):
+    create_hit_result = connection.create_hit(
+        title=title,
+        description=description,
+        keywords=keywords,
+        question=questionform,
+        reward=Price(amount=amount),
+        response_groups=('Minimal', 'HITDetail'),  # I don't know what response groups are
+    )
