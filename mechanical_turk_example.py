@@ -13,6 +13,8 @@ connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
                              aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                              host=HOST)
 
+# hit = connection.get_hit("3S8A4GJRD22XNRRHHX41B0AX8ES6VF")[0]
+
 url = "https://mturk-demonstration.herokuapp.com/"
 title = "Tell me your favorite actor/actress"
 description = "This is a really simple question. That's it."
