@@ -100,8 +100,7 @@ USE_TZ = False
 
 STATIC_ROOT = 'staticfiles'
 
-if os.environ.get("I_AM_IN_DEV_ENV"):
-    STATIC_URL = '/static/'
+STATIC_URL = '/static/'
 
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
