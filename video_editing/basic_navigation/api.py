@@ -35,6 +35,7 @@ def submit(request, post_data=None):
     assignment_id = post_data.get("assignmentId", "")
     post_data = {
         "hitId": hit_id,
+        "workerId": post_data.get("workerId", ""),
         "assignmentId": assignment_id,
         "actor": post_data.get("actor", "")
     }
