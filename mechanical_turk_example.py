@@ -13,7 +13,7 @@ connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
                              aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                              host=HOST)
 
-url = "https://workoutgenerator.net"
+url = "https://mturk-demonstration.herokuapp.com/"
 title = "Tell me your favorite actor/actress"
 description = "This is a really simple question. That's it."
 keywords = ["easy"]

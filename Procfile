@@ -1,1 +1,1 @@
-web: gunicorn exercise_library.wsgi --workers 1 --log-file -;
+web: gunicorn video_editing.wsgi --workers 1 --log-file -;
