@@ -27,4 +27,6 @@ def home(request):
         "hit_id": hit_id
     }
 
-    return render_to_response("base.html", render_data)
+    response = render_to_response("base.html", render_data)
+    response['x-frame-options'] = 'this_can_be_anything'
+    return response
