@@ -100,9 +100,9 @@
         document.getElementById("main_video").defaultPlaybackRate = 3.0;
     };
 
-    $(window).load(function(){
-        increasePlayback();
+    $(document).ready(function(){
         $("video").one("loadeddata", function(){
+            increasePlayback();
             alert("creating thumbnail");
             createThumbnail();
         });
