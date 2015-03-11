@@ -1,0 +1,50 @@
+
+{% load staticfiles %}
+<html>
+    <head>
+        {% include "_js_scripts.html" %}
+    </head>
+    <body>
+<div style="margin-left: 40px;">
+        <div>
+            <h4>Center and Crop the picture on the left so that the corresponding video is framed to the demonstrator's entire movement</h4>
+<ul>
+<li>Not all videos necessarily need cropping</li>
+<li>Some videos might be outtakes.  Please crop to the best of your ability anyway</li>
+<li>Please watch the video on the right to ensure the entire movement is visible</li>
+<li>Any videos that crop out the demonstrator's movements will be rejected</li>
+<li>Submit button becomes available after a video is cropped</li>
+<li>We really appreciate your help! :)</li>
+</ul>
+        </div>
+        <form action="{{ amazon_host }}" method="POST">
+            <input type="hidden" id="assignmentId" value="{{ assignment_id }}" name="assignmentId"/>
+            <br/>
+            <input type="hidden" id="workerId" value="{{ worker_id }}" name="workerId"/>
+            <input type="hidden" id="hitId" value="{{ hit_id }}" name="hitId"/>
+            <input type="hidden" id="offset_x" name="offset_x" value="" />
+            <input type="hidden" id="offset_y" name="offset_y" value="" />
+            <input type="hidden" id="width" name="width" value="" />
+            <input type="hidden" id="height" name="height" value="" />
+            <input type="hidden" id="video_name" name="video_name" value="{{ video_name }}" />
+
+            <div class="test-parent" style="display: block; position: relative; float: left;">
+                <img id="img-placeholder" />
+            </div>
+
+            <div class="offset-container" style="display: block; position: relative; float: left; margin-left: 100px;">
+                <div class="viewable-area" style="width: 320px; overflow: hidden; display: block; ">
+
+                    <video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: 0px">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+
+                    </video>
+
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+<input type="submit" style="display: none; margin: 20px;">
+        </form>
+</div>
+    </body>
+</html>

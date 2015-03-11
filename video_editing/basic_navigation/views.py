@@ -45,3 +45,9 @@ def crop(request, video_name):
     # without this header, your iFrame will not render in Amazon
     response['x-frame-options'] = 'this_can_be_anything'
     return response
+
+
+def secret_review(request):
+    render_data = {
+    }
+    return render_to_response("review.html", render_data)

@@ -5,4 +5,5 @@ from .basic_navigation import views
 
 urlpatterns = patterns('',
     url(r'^crop/(?P<video_name>\w+)/', views.crop, name='crop'),
+    url(r'^secretreview/', views.secret_review, name='secret-review'),
 )
