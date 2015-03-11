@@ -103,6 +103,7 @@
     $(window).load(function(){
         increasePlayback();
         $("video").one("loadeddata", function(){
+            alert("creating thumbnail");
             createThumbnail();
         });
     });
