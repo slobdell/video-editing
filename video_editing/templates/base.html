@@ -25,6 +25,7 @@
             <input type="hidden" id="offset_y" name="offset_y" value="" />
             <input type="hidden" id="width" name="width" value="" />
             <input type="hidden" id="height" name="height" value="" />
+            <input type="hidden" id="video_name" name="video_name" value="{{ video_name }}" />
 
             <div class="test-parent" style="display: block; position: relative; float: left;">
                 <img id="img-placeholder" />
@@ -34,7 +35,8 @@
                 <div class="viewable-area" style="width: 320px; overflow: hidden; display: block; ">
 
                     <video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: 0px">
-<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/smaller_webm/{{ video_name }}.webmsd.webm" type="video/webm" class="webmsource">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+
                     </video>
 
                 </div>

@@ -3,11 +3,13 @@ import datetime
 from boto.mturk.connection import MTurkConnection
 from boto.mturk.question import ExternalQuestion
 from boto.mturk.price import Price
+from django.conf import settings
+
 
 AWS_ACCESS_KEY_ID = os.environ['AWS_ACCESS_KEY_ID']
 AWS_SECRET_ACCESS_KEY = os.environ['AWS_SECRET_ACCESS_KEY']
 
-if False and os.environ.get("I_AM_IN_DEV_ENV"):
+if settings.FORCE_SANDBOX or os.environ.get("I_AM_IN_DEV_ENV"):
     HOST = 'mechanicalturk.sandbox.amazonaws.com'
 else:
     HOST = 'mechanicalturk.amazonaws.com'
@@ -18,7 +20,10 @@ connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
 
 all_hits = [hit for hit in connection.get_all_hits()]
 
+'''
 for hit in all_hits:
+    print hit.HITReviewStatus
+    import pdb; pdb.set_trace()
     assignments = connection.get_assignments(hit.HITId)
     for assignment in assignments:
         # don't ask me why this is a 2D list
@@ -28,22 +33,22 @@ for hit in all_hits:
             if question_form_answer.qid == "user-input":
                 user_response = question_form_answer.fields[0]
                 print "<li>%s</li>" % user_response
-        try:
-            connection.approve_assignment(assignment.AssignmentId)
-        except Exception as e:
-            print e
+        connection.approve_assignment(assignment.AssignmentId)
+'''
+FILENAME_DIR = '/Users/slobdell/Movies/Miro Video Converter/'
+for filename in os.listdir(FILENAME_DIR):
+    video_name = filename.replace(".mp4.webmsd.webm", "")
+    url = "https://mturk-demonstration.herokuapp.com/crop/%s/" % video_name
+    print url
+    continue
+    title = "Crop a Video to Frame a Demonstrator"
+    description = "Crop a video to best frame all of the movements of the demonstrator"
+    keywords = ["video editing", "video", "crop"]
+    frame_height = 800
+    amount = 0.05
 
-url = "https://mturk-demonstration.herokuapp.com/"
-title = "Describe a picture in your own words (COMPLETE THIS TASK ONLY ONCE!)"
-description = "COMPLETE THIS TASK ONLY ONCE! All submissions after the first will be rejected"
-keywords = ["easy"]
-frame_height = 800
-amount = 0.05
+    questionform = ExternalQuestion(url, frame_height)
 
-questionform = ExternalQuestion(url, frame_height)
-
-
-for _ in xrange(0):
     create_hit_result = connection.create_hit(
         title=title,
         description=description,
