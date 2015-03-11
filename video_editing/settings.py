@@ -60,38 +60,6 @@ ROOT_URLCONF = 'video_editing.urls'
 
 WSGI_APPLICATION = 'video_editing.wsgi.application'
 
-'''
-Re add these modules if we want this back:
-pylibmc==1.3.0
-django-pylibmc==0.5.0
-if os.getenv("I_AM_IN_DEV_ENV"):
-    CACHES = {
-        'default': {
-            'BACKEND': 'django.core.cache.backends.memcached.MemcachedCache',
-            'LOCATION': '127.0.0.1:11211',
-        }
-    }
-else:
-    os.environ['MEMCACHE_SERVERS'] = os.environ.get('MEMCACHIER_SERVERS', '').replace(',', ';')
-    os.environ['MEMCACHE_USERNAME'] = os.environ.get('MEMCACHIER_USERNAME', '')
-    os.environ['MEMCACHE_PASSWORD'] = os.environ.get('MEMCACHIER_PASSWORD', '')
-    CACHES = {
-        'default': {
-            'BACKEND': 'django_pylibmc.memcached.PyLibMCCache',
-            'BINARY': True,
-            'OPTIONS': {
-                'no_block': True,
-                'tcp_nodelay': True,
-                'tcp_keepalive': True,
-                'remove_failed': 4,
-                'retry_timeout': 2,
-                'dead_timeout': 10,
-                '_poll_timeout': 2000
-            }
-        }
-    }
-'''
-
 LANGUAGE_CODE = 'en-us'
 TIME_ZONE = 'UTC'
 USE_I18N = True
@@ -100,11 +68,17 @@ USE_TZ = False
 
 STATIC_ROOT = 'staticfiles'
 
-STATIC_URL = '/static/'
+AWS_ACCESS_KEY_ID = os.environ["AWS_ACCESS_KEY_ID"]
+AWS_SECRET_ACCESS_KEY = os.environ["AWS_SECRET_ACCESS_KEY"]
+AWS_STORAGE_BUCKET_NAME = "mturk-static"
 
-CELERY_ACCEPT_CONTENT = ['json']
-CELERY_TASK_SERIALIZER = 'json'
-CELERY_RESULT_SERIALIZER = 'json'
+if os.environ.get("I_AM_IN_DEV_ENV"):
+    STATIC_URL = '/static/'
+else:
+    STATICFILES_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+    DEFAULT_FILE_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
+    STATIC_URL = "http://s3.amazonaws.com/%s/" % AWS_STORAGE_BUCKET_NAME
+
 
 ADMIN_EMAILS = (
     'scott.lobdell@gmail.com',
@@ -113,4 +87,4 @@ ADMIN_EMAILS = (
 if os.environ.get("I_AM_IN_DEV_ENV"):
     HOST_URL = "http://localhost:5000"
 else:
-    HOST_URL = "http://www.workoutgenerator.net"
+    HOST_URL = "http://mturk-demonstration.herokuapp.com"

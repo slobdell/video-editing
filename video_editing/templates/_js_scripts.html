@@ -1,4 +1,14 @@
+{% load staticfiles %}
+
+<link rel="stylesheet" href="{% static 'js/cropper/cropper.css' %}">
+<link rel="stylesheet" href="{% static 'css/bootstrap-2.3.2.min.css' %}">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+
+<script type="text/javascript" src="{% static 'js/cropper/cropper.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/popcorn-complete.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/popcorn.capture.js' %}"></script>
 
 <script type="text/javascript">
 
@@ -26,10 +36,74 @@
             }
         });
     };
-    $(document).ready(function(){
-        return;
-        $("input[type='submit']").on("click", function(){
-            postForm();
+
+    var adjustInputs = function(leftOffset, topOffset, width, height){
+        $("input#width").val(width);
+        $("input#height").val(height);
+        $("input#offset_x").val(leftOffset);
+        $("input#offset_y").val(topOffset);
+    };
+    var adjustVideo = function(leftOffset, topOffset, width, height){
+        var widthStr = width + "px";
+        var heightStr = height + "px";
+        $(".viewable-area").css("width", widthStr);
+        $(".viewable-area").css("height", heightStr);
+        var marginLeftStr = (-1 * leftOffset) + "px";
+        $("#main_video").css("margin-left", marginLeftStr);
+        var marginTopStr = (-1 * topOffset) + "px";
+        $("#main_video").css("margin-top", marginTopStr);
+    };
+    var initCropper = function(){
+        var targetEl = $("#img-placeholder");
+        var aspectRatio = targetEl.width() / targetEl.height();
+        var cropCount = 0;
+        targetEl.cropper({
+            aspectRatio: aspectRatio,
+            background: true,
+            crop: function(data) {
+                console.log("crop start")
+                var leftOffset = data.x;
+                var topOffset = data.y;
+                var width = data.width;
+                var height = data.height;
+                adjustVideo(leftOffset, topOffset, width, height);
+                adjustInputs(leftOffset, topOffset, width, height);
+                if(cropCount > 0){
+                    $("input").show();
+                }
+                cropCount++;
+            },
+            autoCropArea: 0.8,
+            guides: false,
+            zoomable: false,
+            highlight: false,
+            dragCrop: true,
+            movable: true,
+            resizable: true
+        });
+    };
+
+    var createThumbnail = function(){
+        var video = Popcorn("#main_video");
+        var midPoint = video.duration() / 2;
+        video.listen("canplayall", function() {
+            this.currentTime(midPoint).capture({
+                target: "#img-placeholder",
+                media: true
+            });
+            initCropper();
+        });
+    };
+
+    var increasePlayback = function(){
+        document.getElementById("main_video").playbackRate = 3.0;
+        document.getElementById("main_video").defaultPlaybackRate = 3.0;
+    };
+
+    $(window).load(function(){
+        increasePlayback();
+        $("video").one("loadeddata", function(){
+            createThumbnail();
         });
     });
 </script>
