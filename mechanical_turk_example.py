@@ -20,10 +20,23 @@ connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
 TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
 REVIEWABLE_STATUS = "Reviewable"
 
+for hit in connection.get_all_hits():
+    if hit.Title != TARGET_TITLE:
+        print "Bypassing different title"
+        continue
+    if hit.HITStatus != REVIEWABLE_STATUS:
+        print "Bypassing not reviewable"
+        continue
+    import pdb; pdb.set_trace()
+    assignments = connection.get_assignments(hit.HITId)
+    for assignment in assignments:
+        question_form_answers = assignment.answers[0]
+        response_dict = {q.qid: q.fields[0] for q in question_form_answers}
+
+'''
 all_hits = [hit for hit in connection.get_all_hits() if hit.Title == TARGET_TITLE]
 reviewable_hits = [hit for hit in all_hits if hit.HITStatus == REVIEWABLE_STATUS]
 
-'''
 for hit in reviewable_hits:
     assignments = connection.get_assignments(hit.HITId)
     for assignment in assignments:
@@ -34,9 +47,11 @@ for hit in reviewable_hits:
             if question_form_answer.qid == "user-input":
                 user_response = question_form_answer.fields[0]
                 print "<li>%s</li>" % user_response
-        connection.approve_assignment(assignment.AssignmentId)
+
+        # connection.approve_assignment(assignment.AssignmentId)
 '''
 
+'''
 FILENAME_DIR = '/Users/slobdell/Movies/Miro Video Converter/'
 for filename in os.listdir(FILENAME_DIR):
     video_name = filename.replace(".mp4.webmsd.webm", "")
@@ -60,3 +75,4 @@ for filename in os.listdir(FILENAME_DIR):
         reward=Price(amount=amount),
         response_groups=('Minimal', 'HITDetail'),  # I don't know what response groups are
     )
+'''

@@ -22,12 +22,12 @@
             </div>
             <div style="clear: both;"></div>
 <form action="." method="POST" style="margin-top: 20px;">
-    <input type="hidden" name="hit" value="{{ hit_id }}">
+    <input type="hidden" name="hit_id" value="{{ hit_id }}">
     <input type="hidden" name="execute" value="approve">
     <input type="submit" value="Approve" />
 </form>
 <form action="." method="POST">
-    <input type="hidden" name="hit" value="{{ hit_id }}">
+    <input type="hidden" name="hit_id" value="{{ hit_id }}">
     <input type="hidden" name="execute" value="deny">
     <input type="submit" value="Deny" />
 </form>

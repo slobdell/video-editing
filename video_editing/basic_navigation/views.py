@@ -60,13 +60,14 @@ def secret_review(request):
                                 aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                                 host=HOST)
     if request.method == "POST":
+        hit = connection.get_hit(request.POST["hit_id"])[0]
+        assignments = connection.get_assignments(hit.HITId)
         if request.POST['execute'] == 'approve':
-            return HttpResponse("WORKED")
-            pass
+            for assignment in assignments:
+                connection.approve_assignment(assignment.AssignmentId)
         elif request.POST['execute'] == 'deny':
-            return HttpResponse("WORKED")
-            pass
-        pass
+            for assignment in assignments:
+                connection.reject_assignment(assignment.AssignmentId)
     TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
     REVIEWABLE_STATUS = "Reviewable"
     render_data = {}
@@ -77,13 +78,11 @@ def secret_review(request):
             continue
         assignments = connection.get_assignments(hit.HITId)
         for assignment in assignments:
+            if assignment.AssignmentStatus in ("Approved", "Rejected"):
+                continue
             question_form_answers = assignment.answers[0]
             response_dict = {q.qid: q.fields[0] for q in question_form_answers}
             render_data.update(response_dict)
             render_data["hit_id"] = hit.HITId
-            break
-        else:
-            continue
-        break
-
-    return render_to_response("review.html", render_data)
+            return render_to_response("review.html", render_data)
+    return HttpResponse("End of the Line")
