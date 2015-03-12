@@ -1,0 +1,42 @@
+
+{% load staticfiles %}
+<html>
+    <head>
+    </head>
+    <body>
+<div style="margin-left: 40px;">
+
+            <div class="test-parent" style="display: block; position: relative; float: left;">
+                <img id="img-placeholder" />
+            </div>
+
+            <div class="offset-container" style="display: block; position: relative; float: left; ">
+<div class="viewable-area" style="width: {{ width }}px; height: {{ height }}px; overflow: hidden; display: block;">
+
+<video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: -{{ offset_x}}px; margin-top: -{{ offset_y }}px;"">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+
+                    </video>
+
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+<form action="." method="POST" style="margin-top: 20px;">
+    <input type="hidden" name="hit" value="{{ hit_id }}">
+    <input type="hidden" name="execute" value="approve">
+    <input type="submit" value="Approve" />
+</form>
+<form action="." method="POST">
+    <input type="hidden" name="hit" value="{{ hit_id }}">
+    <input type="hidden" name="execute" value="deny">
+    <input type="submit" value="Deny" />
+</form>
+
+<h2>Original</h2>
+<video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: -{{ offset_x}}px; margin-top: -{{ offset_y }}px;"">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+
+                    </video>
+</div>
+    </body>
+</html>

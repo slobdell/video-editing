@@ -8,11 +8,18 @@ from django.http import HttpResponse
 # from django.http import HttpResponsePermanentRedirect
 from django.shortcuts import render_to_response
 
+from boto.mturk.connection import MTurkConnection
+
+
+AWS_ACCESS_KEY_ID = os.environ['AWS_ACCESS_KEY_ID']
+AWS_SECRET_ACCESS_KEY = os.environ['AWS_SECRET_ACCESS_KEY']
+
 
 if settings.FORCE_SANDBOX or os.environ.get("I_AM_IN_DEV_ENV"):
     AMAZON_HOST = "https://workersandbox.mturk.com/mturk/externalSubmit"
 else:
     AMAZON_HOST = "https://www.mturk.com/mturk/externalSubmit"
+AMAZON_HOST = "https://www.mturk.com/mturk/externalSubmit"
 
 
 def render_to_json(data, status=200):
@@ -48,6 +55,35 @@ def crop(request, video_name):
 
 
 def secret_review(request):
-    render_data = {
-    }
+    HOST = 'mechanicalturk.amazonaws.com'
+    connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
+                                aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
+                                host=HOST)
+    if request.method == "POST":
+        if request.POST['execute'] == 'approve':
+            return HttpResponse("WORKED")
+            pass
+        elif request.POST['execute'] == 'deny':
+            return HttpResponse("WORKED")
+            pass
+        pass
+    TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
+    REVIEWABLE_STATUS = "Reviewable"
+    render_data = {}
+    for hit in connection.get_all_hits():
+        if hit.Title != TARGET_TITLE:
+            continue
+        if hit.HITStatus != REVIEWABLE_STATUS:
+            continue
+        assignments = connection.get_assignments(hit.HITId)
+        for assignment in assignments:
+            question_form_answers = assignment.answers[0]
+            response_dict = {q.qid: q.fields[0] for q in question_form_answers}
+            render_data.update(response_dict)
+            render_data["hit_id"] = hit.HITId
+            break
+        else:
+            continue
+        break
+
     return render_to_response("review.html", render_data)
