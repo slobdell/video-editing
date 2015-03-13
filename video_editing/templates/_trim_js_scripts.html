@@ -1,0 +1,98 @@
+{% load staticfiles %}
+
+<link rel="stylesheet" href="{% static 'js/cropper/cropper.css' %}">
+<link rel="stylesheet" href="{% static 'css/bootstrap-2.3.2.min.css' %}">
+<link rel="stylesheet" href="{% static 'css/powerange.css' %}">
+<script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
+
+<script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
+
+<script type="text/javascript" src="{% static 'js/cropper/cropper.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/popcorn-complete.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/popcorn.capture.js' %}"></script>
+<script type="text/javascript" src="{% static 'js/powerange.min.js' %}"></script>
+
+<script type="text/javascript">
+
+    var postForm = function(){
+        var postData = {
+            hitId: $("#hitId").val(),
+            assignmentId: $("#assignmentId").val(),
+            workerId: $("#workerId").val(),
+            actor: $.trim($("#actor").val())
+        }
+        $("input[type='submit']").hide();
+        $.ajax({
+            url: '/api/submit/',
+            data: JSON.stringify(postData),
+            cache: false,
+            dataType: 'json',
+            traditional: true,
+            type: 'POST',
+            contentType: "application/json; charset=utf-8",
+            success: function(response){
+                alert("success");
+            },
+            error: function(data){
+                alert("error");
+            }
+        });
+    };
+
+    var createThumbnail = function(){
+        var video = Popcorn("#main_video");
+        var midPoint = video.duration() / 2;
+        video.listen("canplayall", function() {
+            this.currentTime(midPoint).capture({
+                target: "#img-placeholder",
+                media: true
+            });
+        });
+    };
+
+    var increasePlayback = function(){
+        document.getElementById("main_video").playbackRate = 3.0;
+        document.getElementById("main_video").defaultPlaybackRate = 3.0;
+    };
+
+    var createSlider = function(){
+        var video = Popcorn("#main_video");
+        var videoHTML = $("#main_video").get(0);
+        var previewVideo = $("#preview_video").get(0);
+        videoHTML.oncanplay = function() {
+            videoHTML.pause();
+        };
+
+        var duration = video.duration();
+        setTimeout(function() {
+            new Powerange(self.$(".slider-fitness")[0], {
+                step: 1 ,
+                min: 0,
+                start: 0,
+                hideRange: true,
+                max: 1000,
+                callback: function(){
+                    var value = parseFloat($(".slider-fitness").val());
+                    var percent = value / 1000.0;
+                    var seconds = percent * duration;
+                    videoHTML.currentTime = seconds;
+                    previewVideo.currentTime = seconds;
+                    previewVideo.play();
+                    $("#start").val(seconds);
+                }
+            });
+        }, 0);
+    };
+    $(document).ready(function(){
+        var isFirefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+        if (!isFirefox){
+            $("body").html("<h1>Sorry, this page requires Firefox</h1>");
+        } else {
+            $("#main_video").one("loadeddata", function(){
+                createSlider();
+                // increasePlayback();
+                createThumbnail();
+            });
+        }
+    });
+</script>

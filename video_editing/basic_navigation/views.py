@@ -26,6 +26,21 @@ def render_to_json(data, status=200):
     return HttpResponse(json.dumps(data), content_type="application/json", status=status)
 
 
+def trim(request, video_name):
+    render_data = {
+        "worker_id": request.GET.get("workerId", ""),
+        "assignment_id": request.GET.get("assignmentId", ""),
+        "amazon_host": AMAZON_HOST,
+        "video_name": video_name,
+        "hit_id": request.GET.get("hitId", ""),
+    }
+
+    response = render_to_response("trim.html", render_data)
+    # without this header, your iFrame will not render in Amazon
+    response['x-frame-options'] = 'this_can_be_anything'
+    return response
+
+
 def crop(request, video_name):
     if request.GET.get("assignmentId") == "ASSIGNMENT_ID_NOT_AVAILABLE":
         # worker hasn't accepted the HIT (task) yet
@@ -39,7 +54,6 @@ def crop(request, video_name):
         # you might want to guard against this case somehow
         pass
 
-    # TODO: need to add Amazon S3 stuff and push to production
     render_data = {
         "worker_id": request.GET.get("workerId", ""),
         "assignment_id": request.GET.get("assignmentId", ""),
@@ -52,6 +66,59 @@ def crop(request, video_name):
     # without this header, your iFrame will not render in Amazon
     response['x-frame-options'] = 'this_can_be_anything'
     return response
+
+
+def _find_next_video_name():
+    with open("responses.json", "rb") as f:
+        user_responses = json.loads(f.read())
+    with open("reviews.json", "rb") as f:
+        reviews = json.loads(f.read())
+    available_video_names = {item["video_name"] for item in user_responses}
+    finished_video_names = {item["video_name"] for item in reviews}
+    unfinished_video_names = available_video_names - finished_video_names
+    for video_name in unfinished_video_names:
+        return video_name
+    raise ValueError("ALL DONE")
+
+
+def local_review(request, video_name=None):
+
+    if request.method == "POST":
+        with open("reviews.json", "rb") as f:
+            reviews = json.loads(f.read())
+        new_review_keys = ("video_name", "width", "height", "offset_x", "offset_y")
+        new_review = {key: request.POST[key] for key in new_review_keys}
+
+        existing_reviews = [item for item in reviews if item["video_name"] == video_name]
+        if existing_reviews:
+            existing_review = existing_reviews[0]
+            existing_review.update(new_review)
+        else:
+            reviews.append(new_review)
+        with open("reviews.json", "w+") as f:
+            f.write(json.dumps(reviews, indent=4))
+
+    if video_name is None:
+        video_name = _find_next_video_name()
+    with open("responses.json", "rb") as f:
+        user_responses = json.loads(f.read())
+        video_data = [item for item in user_responses if item["video_name"] == video_name][0]
+    with open("reviews.json", "rb") as f:
+        reviews = json.loads(f.read())
+        finished_reviews = [item for item in reviews if item["video_name"] == video_name]
+        if finished_reviews:
+            video_data = finished_reviews[0]
+
+    render_data = {
+        "worker_id": request.GET.get("workerId", ""),
+        "assignment_id": request.GET.get("assignmentId", ""),
+        "amazon_host": AMAZON_HOST,
+        "video_name": video_name,
+        "hit_id": request.GET.get("hitId", ""),
+    }
+    render_data.update(video_data)
+
+    return render_to_response("self.html", render_data)
 
 
 def secret_review(request):

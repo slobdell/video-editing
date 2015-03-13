@@ -9,3 +9,4 @@
 staticfiles
 tmp
 *.sqlite3
+video_editing/static/movies/

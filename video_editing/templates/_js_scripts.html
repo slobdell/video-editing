@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="{% static 'js/cropper/cropper.css' %}">
 <link rel="stylesheet" href="{% static 'css/bootstrap-2.3.2.min.css' %}">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="{% static 'js/jquery.min.js' %}"></script>
 
 <script type="text/javascript" src="{% static 'js/bootstrap.min.js' %}"></script>
 
@@ -61,7 +61,6 @@
             aspectRatio: aspectRatio,
             background: true,
             crop: function(data) {
-                console.log("crop start")
                 var leftOffset = data.x;
                 var topOffset = data.y;
                 var width = data.width;
@@ -81,6 +80,17 @@
             movable: true,
             resizable: true
         });
+        // super hacky.  Whatever
+        {% if offset_x %}
+        setTimeout(function(){
+            targetEl.cropper("setCropBoxData", {
+                left: {{ offset_x }},
+                top: {{ offset_y }},
+                width: {{ width }},
+                height: {{ height }}
+            });
+        }, 0);
+        {% endif %}
     };
 
     var createThumbnail = function(){

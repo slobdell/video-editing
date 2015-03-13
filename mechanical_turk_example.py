@@ -1,3 +1,4 @@
+import json
 import os
 import datetime
 from boto.mturk.connection import MTurkConnection
@@ -20,6 +21,7 @@ connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
 TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
 REVIEWABLE_STATUS = "Reviewable"
 
+all_responses = []
 for hit in connection.get_all_hits():
     if hit.Title != TARGET_TITLE:
         print "Bypassing different title"
@@ -27,11 +29,16 @@ for hit in connection.get_all_hits():
     if hit.HITStatus != REVIEWABLE_STATUS:
         print "Bypassing not reviewable"
         continue
-    import pdb; pdb.set_trace()
+    # connection.expire_hit(hit.HITId)
     assignments = connection.get_assignments(hit.HITId)
     for assignment in assignments:
         question_form_answers = assignment.answers[0]
         response_dict = {q.qid: q.fields[0] for q in question_form_answers}
+        all_responses.append(response_dict)
+        print response_dict
+with open("responses.json", "w+") as f:
+    json_str = json.dumps(all_responses, indent=4)
+    f.write(json_str)
 
 '''
 all_hits = [hit for hit in connection.get_all_hits() if hit.Title == TARGET_TITLE]

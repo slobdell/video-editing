@@ -1,0 +1,2762 @@
+[
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "87.6", 
+        "offset_y": "17.099999999999994", 
+        "video_name": "batch0_MVI_0120"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "30.40883977900552", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0121"
+    }, 
+    {
+        "workerId": "A36SM7QM8OK3H6", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "69.6", 
+        "offset_y": "12.099999999999994", 
+        "video_name": "batch0_MVI_0122"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "140.69062499999998", 
+        "width": "248.73480662983422", 
+        "offset_x": "23.132596685082845", 
+        "offset_y": "29.309375000000017", 
+        "video_name": "batch0_MVI_0123"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "151.8", 
+        "width": "151.8", 
+        "offset_x": "76.6", 
+        "offset_y": "28.19999999999999", 
+        "video_name": "batch0_MVI_0124"
+    }, 
+    {
+        "workerId": "AWIO57CI1ZBIH", 
+        "height": "129.725", 
+        "width": "228.08791208791206", 
+        "offset_x": "47.780219780219795", 
+        "offset_y": "49.99062500000002", 
+        "video_name": "batch0_MVI_0125"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "167.8", 
+        "width": "296.6629834254144", 
+        "offset_x": "19.80110497237567", 
+        "offset_y": "1.0999999999999943", 
+        "video_name": "batch0_MVI_0129"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "166.16491319444447", 
+        "width": "293.77222222222224", 
+        "offset_x": "13.61666666666667", 
+        "offset_y": "14.835086805555537", 
+        "video_name": "batch0_MVI_0128"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "37", 
+        "offset_y": "15.099999999999994", 
+        "video_name": "batch0_MVI_0127"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "18.856353591160207", 
+        "offset_y": "10.099999999999994", 
+        "video_name": "batch0_MVI_0126"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "165.53015625000003", 
+        "width": "292.65000000000003", 
+        "offset_x": "22.22222222222221", 
+        "offset_y": "7.038888888888889", 
+        "video_name": "batch0_MVI_0132"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "151", 
+        "width": "151", 
+        "offset_x": "64.5", 
+        "offset_y": "3", 
+        "video_name": "batch0_MVI_0131"
+    }, 
+    {
+        "workerId": "AOO39X8E3OJYY", 
+        "height": "175.24375", 
+        "width": "309.8232044198895", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0130"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18.74033149171271", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch0_MVI_0133"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "87.6", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch0_MVI_0134"
+    }, 
+    {
+        "workerId": "A2WIDZJ2KTSK84", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0135"
+    }, 
+    {
+        "workerId": "A3BW291YM7KK17", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "34", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch0_MVI_0137"
+    }, 
+    {
+        "workerId": "A2WRN1GAQEC9J2", 
+        "height": "174.15312500000002", 
+        "width": "307.8950276243094", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0136"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "157", 
+        "width": "157", 
+        "offset_x": "81", 
+        "offset_y": "3", 
+        "video_name": "batch0_MVI_0138"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "22", 
+        "offset_y": "12", 
+        "video_name": "batch0_MVI_0140"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "163.8", 
+        "width": "163.8", 
+        "offset_x": "72.6", 
+        "offset_y": "10.099999999999994", 
+        "video_name": "batch0_MVI_0139"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "160.125", 
+        "width": "283.09392265193367", 
+        "offset_x": "0", 
+        "offset_y": "4.837500000000013", 
+        "video_name": "batch0_MVI_0141"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "38", 
+        "offset_y": "13.099999999999994", 
+        "video_name": "batch0_MVI_0143"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0145"
+    }, 
+    {
+        "workerId": "A2AAY4VT9L71SY", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "60.099999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0142"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "164.8", 
+        "width": "291.35911602209944", 
+        "offset_x": "14.320441988950265", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0144"
+    }, 
+    {
+        "workerId": "A3BL2ZEODD79AZ", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "30", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch0_MVI_0147"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "115.953125", 
+        "width": "205", 
+        "offset_x": "55", 
+        "offset_y": "48.52343749999994", 
+        "video_name": "batch0_MVI_0146"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "134", 
+        "width": "134", 
+        "offset_x": "90", 
+        "offset_y": "16", 
+        "video_name": "batch0_MVI_0149"
+    }, 
+    {
+        "workerId": "A1F63RK1PMJS5Y", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0148"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "141.053125", 
+        "width": "249.37569060773478", 
+        "offset_x": "31.8121546961326", 
+        "offset_y": "39.946875000000006", 
+        "video_name": "batch0_MVI_0151"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "109.6", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0150"
+    }, 
+    {
+        "workerId": "A9YQQIZRWVPIT", 
+        "height": "119.165625", 
+        "width": "210.67955801104972", 
+        "offset_x": "45.32044198895028", 
+        "offset_y": "32.47343749999997", 
+        "video_name": "batch0_MVI_0154"
+    }, 
+    {
+        "workerId": "AOO39X8E3OJYY", 
+        "height": "160.071875", 
+        "width": "283", 
+        "offset_x": "7", 
+        "offset_y": "2", 
+        "video_name": "batch0_MVI_0152"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "119.80000000000001", 
+        "width": "211.8011049723757", 
+        "offset_x": "32", 
+        "offset_y": "43.099999999999994", 
+        "video_name": "batch0_MVI_0153"
+    }, 
+    {
+        "workerId": "A17YUU2DKC93S6", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0156"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "121.49687500000002", 
+        "width": "214.80110497237573", 
+        "offset_x": "56", 
+        "offset_y": "48.099999999999994", 
+        "video_name": "batch0_MVI_0155"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "156", 
+        "width": "156", 
+        "offset_x": "82", 
+        "offset_y": "1", 
+        "video_name": "batch0_MVI_0157"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "115.80000000000001", 
+        "width": "115.80000000000001", 
+        "offset_x": "104.6", 
+        "offset_y": "54.099999999999994", 
+        "video_name": "batch0_MVI_0161"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "177.8", 
+        "width": "314.3425414364641", 
+        "offset_x": "2.8287292817679583", 
+        "offset_y": "3.1999999999999886", 
+        "video_name": "batch0_MVI_0159"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "176.8", 
+        "width": "312.57458563535914", 
+        "offset_x": "3.712707182320434", 
+        "offset_y": "4.199999999999989", 
+        "video_name": "batch0_MVI_0160"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "164.8", 
+        "width": "164.8", 
+        "offset_x": "67.6", 
+        "offset_y": "16.19999999999999", 
+        "video_name": "batch0_MVI_0158"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "167.8", 
+        "width": "167.8", 
+        "offset_x": "64.6", 
+        "offset_y": "13.199999999999989", 
+        "video_name": "batch0_MVI_0162"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "1", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0164"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "177.8", 
+        "width": "177.8", 
+        "offset_x": "71.1", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0165"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0163"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "168.8", 
+        "width": "298.43093922651934", 
+        "offset_x": "10.784530386740316", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch0_MVI_0167"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "16.099999999999994", 
+        "video_name": "batch0_MVI_0168"
+    }, 
+    {
+        "workerId": "A1UFD8IOZTACGH", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "62.599999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0166"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "30", 
+        "offset_y": "6.099999999999994", 
+        "video_name": "batch0_MVI_0171"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0172"
+    }, 
+    {
+        "workerId": "AT282OSJ1UOXU", 
+        "height": "154.8", 
+        "width": "154.8", 
+        "offset_x": "82.6", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch0_MVI_0170"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "149", 
+        "width": "149", 
+        "offset_x": "82.5", 
+        "offset_y": "5", 
+        "video_name": "batch0_MVI_0169"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "160", 
+        "width": "160", 
+        "offset_x": "63", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0174"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "20.099999999999994", 
+        "video_name": "batch0_MVI_0173"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "140", 
+        "width": "140", 
+        "offset_x": "96", 
+        "offset_y": "16", 
+        "video_name": "batch0_MVI_0175"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "116.80000000000001", 
+        "width": "206.4972375690608", 
+        "offset_x": "54.75138121546963", 
+        "offset_y": "50.099999999999994", 
+        "video_name": "batch0_MVI_0176"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "157.8", 
+        "width": "157.8", 
+        "offset_x": "74.6", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch0_MVI_0178"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "164.8", 
+        "width": "164.8", 
+        "offset_x": "72.6", 
+        "offset_y": "14.099999999999994", 
+        "video_name": "batch0_MVI_0177"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "180.8", 
+        "width": "319.646408839779", 
+        "offset_x": "0.17679558011049235", 
+        "offset_y": "0.19999999999998863", 
+        "video_name": "batch0_MVI_0179"
+    }, 
+    {
+        "workerId": "A1188ZFLVWBRRW", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0182"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "4.90055248618784", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch0_MVI_0180"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "152", 
+        "width": "152", 
+        "offset_x": "86.5", 
+        "offset_y": "0.5", 
+        "video_name": "batch0_MVI_0181"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0185"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "180.8", 
+        "width": "319.646408839779", 
+        "offset_x": "0.3535911602210149", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0184"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "106.80000000000001", 
+        "width": "106.80000000000001", 
+        "offset_x": "117.6", 
+        "offset_y": "28.099999999999994", 
+        "video_name": "batch0_MVI_0183"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "178.8", 
+        "width": "316.11049723756906", 
+        "offset_x": "1.9447513812154615", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch0_MVI_0187"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "163.85", 
+        "width": "289.6795580110497", 
+        "offset_x": "7.160220994475143", 
+        "offset_y": "1.0999999999999943", 
+        "video_name": "batch0_MVI_0186"
+    }, 
+    {
+        "workerId": "A27ZYAW0NH371F", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "22.204419889502738", 
+        "offset_y": "2", 
+        "video_name": "batch0_MVI_0189"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "180.8", 
+        "width": "180.8", 
+        "offset_x": "69.6", 
+        "offset_y": "0.19999999999998863", 
+        "video_name": "batch0_MVI_0188"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "167.92777777777778", 
+        "width": "296.88888888888886", 
+        "offset_x": "12.561111111111096", 
+        "offset_y": "12.066666666666666", 
+        "video_name": "batch0_MVI_0193"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "158.396875", 
+        "width": "280.03867403314916", 
+        "offset_x": "35.48066298342542", 
+        "offset_y": "22.603125000000006", 
+        "video_name": "batch0_MVI_0190"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "-1", 
+        "offset_y": "2", 
+        "video_name": "batch0_MVI_0192"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18.74033149171269", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch0_MVI_0191"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "164.8", 
+        "width": "291.35911602209944", 
+        "offset_x": "17.320441988950275", 
+        "offset_y": "14", 
+        "video_name": "batch0_MVI_0194"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "9.900552486187827", 
+        "offset_y": "5.099999999999994", 
+        "video_name": "batch0_MVI_0196"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "177.8", 
+        "width": "177.8", 
+        "offset_x": "71.1", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch0_MVI_0195"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "165.8", 
+        "width": "293.1270718232044", 
+        "offset_x": "15.436464088397765", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch0_MVI_0197"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "166.8", 
+        "width": "294.8950276243094", 
+        "offset_x": "12.552486187845286", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch0_MVI_0199"
+    }, 
+    {
+        "workerId": "A2WRN1GAQEC9J2", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18.740331491712706", 
+        "offset_y": "7.099999999999994", 
+        "video_name": "batch0_MVI_0198"
+    }, 
+    {
+        "workerId": "APSAGRZ061FZJ", 
+        "height": "160.21956597222223", 
+        "width": "283.26111111111106", 
+        "offset_x": "-0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0200"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "128.9625", 
+        "width": "228", 
+        "offset_x": "49", 
+        "offset_y": "17.099999999999994", 
+        "video_name": "batch0_MVI_0202"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "165.8", 
+        "width": "165.8", 
+        "offset_x": "77.1", 
+        "offset_y": "11.099999999999994", 
+        "video_name": "batch0_MVI_0201"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0203"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "163.00055555555556", 
+        "width": "288.1777777777778", 
+        "offset_x": "30.699999999999974", 
+        "offset_y": "8.43095486111111", 
+        "video_name": "batch0_MVI_0205"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "132.378125", 
+        "width": "234.0386740331492", 
+        "offset_x": "80.48066298342556", 
+        "offset_y": "41.31093749999992", 
+        "video_name": "batch0_MVI_0204"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "173.8", 
+        "width": "307.2707182320442", 
+        "offset_x": "12.729281767955797", 
+        "offset_y": "7.199999999999989", 
+        "video_name": "batch0_MVI_0206"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "125.80000000000001", 
+        "width": "222.40883977900555", 
+        "offset_x": "0.7955801104972338", 
+        "offset_y": "54.099999999999994", 
+        "video_name": "batch0_MVI_0209"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "148.88125", 
+        "width": "263.21546961325964", 
+        "offset_x": "0", 
+        "offset_y": "32.118750000000006", 
+        "video_name": "batch0_MVI_0208"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "145.93125", 
+        "width": "258", 
+        "offset_x": "0", 
+        "offset_y": "35.068749999999994", 
+        "video_name": "batch0_MVI_0207"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "147.8", 
+        "width": "261.30386740331494", 
+        "offset_x": "28.348066298342538", 
+        "offset_y": "20.099999999999994", 
+        "video_name": "batch0_MVI_0211"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "165.8", 
+        "width": "165.8", 
+        "offset_x": "49.599999999999994", 
+        "offset_y": "15.199999999999989", 
+        "video_name": "batch0_MVI_0212"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "34", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0210"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "140", 
+        "width": "140", 
+        "offset_x": "92", 
+        "offset_y": "16", 
+        "video_name": "batch0_MVI_0214"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "148", 
+        "width": "148", 
+        "offset_x": "79", 
+        "offset_y": "5", 
+        "video_name": "batch0_MVI_0213"
+    }, 
+    {
+        "workerId": "A2AWBDW9V1E9KT", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "93.19999999999999", 
+        "offset_y": "18.19999999999999", 
+        "video_name": "batch0_MVI_0216"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "33", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0217"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "179.8", 
+        "width": "317.878453038674", 
+        "offset_x": "0", 
+        "offset_y": "1.1999999999999886", 
+        "video_name": "batch0_MVI_0218"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "162.8", 
+        "width": "162.8", 
+        "offset_x": "74.6", 
+        "offset_y": "14.199999999999989", 
+        "video_name": "batch0_MVI_0215"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "71.1", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0221"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "69.1", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0219"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "169.2789930555556", 
+        "width": "299.27777777777777", 
+        "offset_x": "5.333333333333309", 
+        "offset_y": "3.4126041666666667", 
+        "video_name": "batch0_MVI_0220"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "180.8", 
+        "width": "319.646408839779", 
+        "offset_x": "0.17679558011048924", 
+        "offset_y": "0.19999999999998863", 
+        "video_name": "batch0_MVI_0225"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "155.8", 
+        "width": "275.4475138121547", 
+        "offset_x": "17.27624309392265", 
+        "offset_y": "23.099999999999994", 
+        "video_name": "batch0_MVI_0222"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "177.06250000000003", 
+        "width": "313.0386740331492", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0223"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "144", 
+        "width": "144", 
+        "offset_x": "96", 
+        "offset_y": "16", 
+        "video_name": "batch0_MVI_0224"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "175.8", 
+        "width": "310.8066298342541", 
+        "offset_x": "8.193370165745876", 
+        "offset_y": "1", 
+        "video_name": "batch0_MVI_0226"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "179.99444444444444", 
+        "width": "318.2222222222222", 
+        "offset_x": "0.8888888888888781", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0228"
+    }, 
+    {
+        "workerId": "A17YUU2DKC93S6", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0227"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "178.8", 
+        "width": "316.11049723756906", 
+        "offset_x": "1.9447513812154615", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0229"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "160", 
+        "width": "160", 
+        "offset_x": "79", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0231"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "162.8", 
+        "width": "287.8232044198895", 
+        "offset_x": "16.088397790055247", 
+        "offset_y": "1", 
+        "video_name": "batch0_MVI_0233"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "128.4375", 
+        "width": "227.07182320441987", 
+        "offset_x": "33.46408839779005", 
+        "offset_y": "17.281249999999957", 
+        "video_name": "batch0_MVI_0230"
+    }, 
+    {
+        "workerId": "A18TXM6GMU1411", 
+        "height": "176.8", 
+        "width": "312.57458563535914", 
+        "offset_x": "0", 
+        "offset_y": "4.199999999999989", 
+        "video_name": "batch0_MVI_0232"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "138", 
+        "width": "138", 
+        "offset_x": "96", 
+        "offset_y": "16", 
+        "video_name": "batch0_MVI_0234"
+    }, 
+    {
+        "workerId": "A2I6AJ1S24DS8T", 
+        "height": "169.14687500000002", 
+        "width": "299.04419889502765", 
+        "offset_x": "20.955801104972352", 
+        "offset_y": "11.853124999999977", 
+        "video_name": "batch0_MVI_0235"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "84.19999999999999", 
+        "offset_y": "6", 
+        "video_name": "batch0_MVI_0237"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch0_MVI_0236"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "135", 
+        "width": "135", 
+        "offset_x": "96", 
+        "offset_y": "9", 
+        "video_name": "batch1_MVI_0001"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "64", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch0_MVI_0238"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "161.8", 
+        "width": "286.05524861878456", 
+        "offset_x": "16.972375690607727", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch0_MVI_0239"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "167.759375", 
+        "width": "296.5911602209945", 
+        "offset_x": "12.204419889502747", 
+        "offset_y": "5.099999999999994", 
+        "video_name": "batch1_MVI_0004"
+    }, 
+    {
+        "workerId": "A36SM7QM8OK3H6", 
+        "height": "150.8", 
+        "width": "150.8", 
+        "offset_x": "93.6", 
+        "offset_y": "5", 
+        "video_name": "batch1_MVI_0002"
+    }, 
+    {
+        "workerId": "A27ZYAW0NH371F", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "19.801104972375697", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0003"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "21.856353591160207", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0006"
+    }, 
+    {
+        "workerId": "A2AWBDW9V1E9KT", 
+        "height": "140.903125", 
+        "width": "249.11049723756904", 
+        "offset_x": "68.88950276243096", 
+        "offset_y": "7.948437500000004", 
+        "video_name": "batch1_MVI_0005"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "162.8", 
+        "width": "287.8232044198895", 
+        "offset_x": "27", 
+        "offset_y": "18.19999999999999", 
+        "video_name": "batch1_MVI_0007"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "175.8", 
+        "width": "175.8", 
+        "offset_x": "88.6", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch1_MVI_0011"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "95.6", 
+        "offset_y": "5.099999999999994", 
+        "video_name": "batch1_MVI_0010"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "180.8", 
+        "width": "180.8", 
+        "offset_x": "61.599999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0009"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "86.6", 
+        "offset_y": "12.099999999999994", 
+        "video_name": "batch1_MVI_0008"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "59", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch1_MVI_0013"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "154", 
+        "width": "154", 
+        "offset_x": "90.5", 
+        "offset_y": "3.5", 
+        "video_name": "batch1_MVI_0012"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "163.3462152777778", 
+        "width": "288.7888888888889", 
+        "offset_x": "26.66666666666665", 
+        "offset_y": "17.6537847222222", 
+        "video_name": "batch1_MVI_0014"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "6.099999999999994", 
+        "video_name": "batch1_MVI_0016"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0015"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "161.8", 
+        "width": "286.05524861878456", 
+        "offset_x": "16.97237569060772", 
+        "offset_y": "1.0999999999999943", 
+        "video_name": "batch1_MVI_0017"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "161.8", 
+        "width": "161.8", 
+        "offset_x": "87.6", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch1_MVI_0020"
+    }, 
+    {
+        "workerId": "AOO39X8E3OJYY", 
+        "height": "180.203125", 
+        "width": "318.5911602209945", 
+        "offset_x": "1.4088397790055183", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0018"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "130.346875", 
+        "width": "230.4475138121547", 
+        "offset_x": "37", 
+        "offset_y": "50.65312499999999", 
+        "video_name": "batch1_MVI_0019"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "156.70000000000002", 
+        "width": "277.03867403314916", 
+        "offset_x": "27.480662983425404", 
+        "offset_y": "24.299999999999983", 
+        "video_name": "batch1_MVI_0023"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0024"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "142.8", 
+        "width": "142.8", 
+        "offset_x": "92.6", 
+        "offset_y": "19.099999999999994", 
+        "video_name": "batch1_MVI_0022"
+    }, 
+    {
+        "workerId": "A2AAY4VT9L71SY", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "54.099999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0021"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "12.20441988950275", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch1_MVI_0026"
+    }, 
+    {
+        "workerId": "A27ZYAW0NH371F", 
+        "height": "150.18437500000002", 
+        "width": "265.5193370165746", 
+        "offset_x": "24.088397790055225", 
+        "offset_y": "8.33281249999996", 
+        "video_name": "batch1_MVI_0025"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "151.8", 
+        "width": "268.37569060773484", 
+        "offset_x": "28.812154696132588", 
+        "offset_y": "4.099999999999994", 
+        "video_name": "batch1_MVI_0027"
+    }, 
+    {
+        "workerId": "A17YUU2DKC93S6", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0028"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "137.446875", 
+        "width": "243", 
+        "offset_x": "61", 
+        "offset_y": "4.676562499999999", 
+        "video_name": "batch1_MVI_0032"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "150.8", 
+        "width": "266.6077348066298", 
+        "offset_x": "23.696132596685075", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0029"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "38", 
+        "offset_y": "4", 
+        "video_name": "batch1_MVI_0033"
+    }, 
+    {
+        "workerId": "A1E5PWE8O010XK", 
+        "height": "159.75000000000003", 
+        "width": "282.4309392265194", 
+        "offset_x": "20.784530386740318", 
+        "offset_y": "4.724999999999991", 
+        "video_name": "batch1_MVI_0035"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "20.099999999999994", 
+        "video_name": "batch1_MVI_0034"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "19", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch1_MVI_0036"
+    }, 
+    {
+        "workerId": "A2WRN1GAQEC9J2", 
+        "height": "152.8", 
+        "width": "270.1436464088398", 
+        "offset_x": "24.928176795580107", 
+        "offset_y": "10.099999999999994", 
+        "video_name": "batch1_MVI_0037"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "150.51875", 
+        "width": "266.11049723756906", 
+        "offset_x": "33.425414364640886", 
+        "offset_y": "30.48124999999999", 
+        "video_name": "batch1_MVI_0041"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "158.8", 
+        "width": "280.7513812154696", 
+        "offset_x": "19.624309392265175", 
+        "offset_y": "4.099999999999994", 
+        "video_name": "batch1_MVI_0038"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "15.20441988950274", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch1_MVI_0039"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "158.8", 
+        "width": "280.7513812154696", 
+        "offset_x": "27.624309392265175", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0040"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "121.6", 
+        "offset_y": "6.099999999999994", 
+        "video_name": "batch1_MVI_0042"
+    }, 
+    {
+        "workerId": "APSAGRZ061FZJ", 
+        "height": "166.92222222222222", 
+        "width": "295.1111111111111", 
+        "offset_x": "16.466666666666647", 
+        "offset_y": "12.066666666666666", 
+        "video_name": "batch1_MVI_0044"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "105.6", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch1_MVI_0043"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "139.14375", 
+        "width": "246", 
+        "offset_x": "31", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0046"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "153.8", 
+        "width": "271.91160220994476", 
+        "offset_x": "24.044198895027613", 
+        "offset_y": "21.099999999999994", 
+        "video_name": "batch1_MVI_0047"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "23.099999999999994", 
+        "video_name": "batch1_MVI_0045"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "33", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch1_MVI_0050"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "98.984375", 
+        "width": "175", 
+        "offset_x": "25", 
+        "offset_y": "17", 
+        "video_name": "batch1_MVI_0048"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "163.8", 
+        "width": "163.8", 
+        "offset_x": "87.6", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch1_MVI_0051"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "141.8", 
+        "width": "250.6961325966851", 
+        "offset_x": "34.65193370165746", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch1_MVI_0049"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "178.8", 
+        "width": "178.8", 
+        "offset_x": "70.6", 
+        "offset_y": "2.1999999999999886", 
+        "video_name": "batch1_MVI_0052"
+    }, 
+    {
+        "workerId": "AOO39X8E3OJYY", 
+        "height": "176.9", 
+        "width": "312.7513812154696", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0053"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "26.099999999999994", 
+        "video_name": "batch1_MVI_0054"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "159.56562499999998", 
+        "width": "282.1049723756906", 
+        "offset_x": "19.447513812154693", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0055"
+    }, 
+    {
+        "workerId": "A27ZYAW0NH371F", 
+        "height": "152.15312500000002", 
+        "width": "269", 
+        "offset_x": "51", 
+        "offset_y": "9.242187500000005", 
+        "video_name": "batch1_MVI_0056"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "159.66965277777777", 
+        "width": "282.2888888888889", 
+        "offset_x": "24.9611111111111", 
+        "offset_y": "16.698506944444457", 
+        "video_name": "batch1_MVI_0057"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "130.659375", 
+        "width": "231", 
+        "offset_x": "23", 
+        "offset_y": "50.34062499999999", 
+        "video_name": "batch1_MVI_0059"
+    }, 
+    {
+        "workerId": "A1188ZFLVWBRRW", 
+        "height": "145.8", 
+        "width": "257.76795580110496", 
+        "offset_x": "10.116022099447509", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch1_MVI_0060"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "164.8", 
+        "width": "291.35911602209944", 
+        "offset_x": "14.320441988950279", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0058"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "15.20441988950275", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0061"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "157.8", 
+        "width": "278.98342541436466", 
+        "offset_x": "41.01657458563534", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0063"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "154.8", 
+        "width": "154.8", 
+        "offset_x": "80.6", 
+        "offset_y": "7.099999999999994", 
+        "video_name": "batch1_MVI_0062"
+    }, 
+    {
+        "workerId": "A3RKOMHCIRVN0N", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "32.099999999999994", 
+        "video_name": "batch1_MVI_0067"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "129.8", 
+        "width": "229.48066298342542", 
+        "offset_x": "45.25966850828731", 
+        "offset_y": "33.099999999999994", 
+        "video_name": "batch1_MVI_0066"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0064"
+    }, 
+    {
+        "workerId": "A2AWBDW9V1E9KT", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "53.099999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0065"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "73.6", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch1_MVI_0070"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "33.099999999999994", 
+        "video_name": "batch1_MVI_0068"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "33", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch1_MVI_0069"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "178.8", 
+        "width": "316.11049723756906", 
+        "offset_x": "0", 
+        "offset_y": "2.1999999999999886", 
+        "video_name": "batch1_MVI_0071"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "147.8", 
+        "width": "147.8", 
+        "offset_x": "87.6", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch1_MVI_0072"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "163.8", 
+        "width": "163.8", 
+        "offset_x": "66.1", 
+        "offset_y": "0.09999999999999432", 
+        "video_name": "batch1_MVI_0073"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "163.8", 
+        "width": "163.8", 
+        "offset_x": "87.6", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch1_MVI_0074"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "135.18437500000002", 
+        "width": "239", 
+        "offset_x": "17", 
+        "offset_y": "34.907812500000006", 
+        "video_name": "batch1_MVI_0077"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "140.84062500000002", 
+        "width": "249", 
+        "offset_x": "39", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch1_MVI_0076"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0075"
+    }, 
+    {
+        "workerId": "A1188ZFLVWBRRW", 
+        "height": "127.83125000000001", 
+        "width": "226", 
+        "offset_x": "41", 
+        "offset_y": "26.584374999999994", 
+        "video_name": "batch1_MVI_0079"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "14.204419889502757", 
+        "offset_y": "17.19999999999999", 
+        "video_name": "batch1_MVI_0081"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "87.6", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch1_MVI_0080"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "60.599999999999994", 
+        "offset_y": "35.099999999999994", 
+        "video_name": "batch1_MVI_0078"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "92.6", 
+        "offset_y": "9.099999999999994", 
+        "video_name": "batch1_MVI_0083"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "73.6", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0001"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch1_MVI_0082"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "150", 
+        "width": "150", 
+        "offset_x": "82", 
+        "offset_y": "3", 
+        "video_name": "batch2_MVI_0005"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "173.8", 
+        "width": "173.8", 
+        "offset_x": "58.599999999999994", 
+        "offset_y": "3.5999999999999943", 
+        "video_name": "batch2_MVI_0002"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "149.8", 
+        "width": "149.8", 
+        "offset_x": "74.6", 
+        "offset_y": "27.19999999999999", 
+        "video_name": "batch2_MVI_0003"
+    }, 
+    {
+        "workerId": "A1I9RVNYDSP2BG", 
+        "height": "162.334375", 
+        "width": "287", 
+        "offset_x": "32", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0004"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "161.89444444444445", 
+        "width": "286.22222222222223", 
+        "offset_x": "16.88888888888887", 
+        "offset_y": "1.0055555555555555", 
+        "video_name": "batch2_MVI_0006"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "21", 
+        "offset_y": "4.099999999999994", 
+        "video_name": "batch2_MVI_0008"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "157.8", 
+        "width": "278.98342541436466", 
+        "offset_x": "28.46408839779005", 
+        "offset_y": "9.099999999999994", 
+        "video_name": "batch2_MVI_0007"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "158.30625", 
+        "width": "279.878453038674", 
+        "offset_x": "16.060773480662945", 
+        "offset_y": "11.846874999999944", 
+        "video_name": "batch2_MVI_0012"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "162.8", 
+        "width": "287.8232044198895", 
+        "offset_x": "17.176795580110504", 
+        "offset_y": "3.0999999999999943", 
+        "video_name": "batch2_MVI_0009"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "156", 
+        "width": "156", 
+        "offset_x": "21", 
+        "offset_y": "4.5", 
+        "video_name": "batch2_MVI_0011"
+    }, 
+    {
+        "workerId": "A2WRN1GAQEC9J2", 
+        "height": "161.275", 
+        "width": "285.1270718232044", 
+        "offset_x": "13.436464088397784", 
+        "offset_y": "7.099999999999994", 
+        "video_name": "batch2_MVI_0010"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0015"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "167.396875", 
+        "width": "295.9502762430939", 
+        "offset_x": "5.77348066298341", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0014"
+    }, 
+    {
+        "workerId": "APSAGRZ061FZJ", 
+        "height": "144.8", 
+        "width": "256.00000000000006", 
+        "offset_x": "42.05555555555554", 
+        "offset_y": "11.061111111111112", 
+        "video_name": "batch2_MVI_0013"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "145", 
+        "width": "145", 
+        "offset_x": "94", 
+        "offset_y": "8", 
+        "video_name": "batch2_MVI_0018"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "160", 
+        "width": "160", 
+        "offset_x": "39", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0017"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "153.8", 
+        "width": "271.91160220994476", 
+        "offset_x": "26.044198895027613", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0016"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "17.099999999999994", 
+        "video_name": "batch2_MVI_0020"
+    }, 
+    {
+        "workerId": "AWIO57CI1ZBIH", 
+        "height": "79.32499999999999", 
+        "width": "139.47252747252745", 
+        "offset_x": "88.26373626373623", 
+        "offset_y": "79.33750000000003", 
+        "video_name": "batch2_MVI_0019"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18", 
+        "offset_y": "21.19999999999999", 
+        "video_name": "batch2_MVI_0021"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch2_MVI_0025"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0024"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "157.8", 
+        "width": "278.98342541436466", 
+        "offset_x": "20.508287292817666", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0023"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "179.9", 
+        "width": "318.0552486187845", 
+        "offset_x": "0", 
+        "offset_y": "1.0999999999999943", 
+        "video_name": "batch2_MVI_0022"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "32", 
+        "offset_y": "23.099999999999994", 
+        "video_name": "batch2_MVI_0026"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "37", 
+        "offset_y": "14.099999999999994", 
+        "video_name": "batch2_MVI_0027"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "160", 
+        "width": "160", 
+        "offset_x": "37", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0028"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "81.6", 
+        "offset_y": "15.099999999999994", 
+        "video_name": "batch2_MVI_0029"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "179.8", 
+        "width": "179.8", 
+        "offset_x": "73.6", 
+        "offset_y": "1.1999999999999886", 
+        "video_name": "batch2_MVI_0030"
+    }, 
+    {
+        "workerId": "A3BL2ZEODD79AZ", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "23", 
+        "offset_y": "9", 
+        "video_name": "batch2_MVI_0034"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "170.8", 
+        "width": "170.8", 
+        "offset_x": "66.6", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch2_MVI_0033"
+    }, 
+    {
+        "workerId": "A1UFD8IOZTACGH", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "72.1", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0032"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "28.599999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0031"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "25", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch2_MVI_0036"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "155", 
+        "width": "155", 
+        "offset_x": "74", 
+        "offset_y": "5", 
+        "video_name": "batch2_MVI_0035"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "152", 
+        "width": "152", 
+        "offset_x": "27.599999999999994", 
+        "offset_y": "11.5", 
+        "video_name": "batch2_MVI_0037"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "149.32500000000002", 
+        "width": "264", 
+        "offset_x": "45", 
+        "offset_y": "29.837500000000002", 
+        "video_name": "batch2_MVI_0040"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0038"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "47", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch2_MVI_0039"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "168.8", 
+        "width": "298.43093922651934", 
+        "offset_x": "10.784530386740315", 
+        "offset_y": "2.0999999999999943", 
+        "video_name": "batch2_MVI_0042"
+    }, 
+    {
+        "workerId": "A3R25SV8HUGML2", 
+        "height": "163.00055555555556", 
+        "width": "288.1777777777778", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "17.99944444444442", 
+        "video_name": "batch2_MVI_0043"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "0.5999999999999943", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0044"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "148.7813715277778", 
+        "width": "263.0388888888889", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "18.1", 
+        "video_name": "batch2_MVI_0041"
+    }, 
+    {
+        "workerId": "AMD827RL32VBG", 
+        "height": "123.30625", 
+        "width": "218", 
+        "offset_x": "45", 
+        "offset_y": "28.846874999999944", 
+        "video_name": "batch2_MVI_0046"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "137.8", 
+        "width": "243.6243093922652", 
+        "offset_x": "14.187845303867402", 
+        "offset_y": "6.099999999999994", 
+        "video_name": "batch2_MVI_0048"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "177.8", 
+        "width": "177.8", 
+        "offset_x": "114.6", 
+        "offset_y": "2.1999999999999886", 
+        "video_name": "batch2_MVI_0045"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "163.52847222222226", 
+        "width": "289.11111111111114", 
+        "offset_x": "2.6666666666666754", 
+        "offset_y": "10.746875", 
+        "video_name": "batch2_MVI_0047"
+    }, 
+    {
+        "workerId": "A1UFD8IOZTACGH", 
+        "height": "155.8", 
+        "width": "155.8", 
+        "offset_x": "92.6", 
+        "offset_y": "9.099999999999994", 
+        "video_name": "batch2_MVI_0050"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "127.80000000000001", 
+        "width": "127.80000000000001", 
+        "offset_x": "87.6", 
+        "offset_y": "26.599999999999994", 
+        "video_name": "batch2_MVI_0049"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0053"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "145", 
+        "width": "145", 
+        "offset_x": "97", 
+        "offset_y": "12", 
+        "video_name": "batch2_MVI_0052"
+    }, 
+    {
+        "workerId": "A13W8W81TPORYZ", 
+        "height": "117.83125000000001", 
+        "width": "208.32044198895028", 
+        "offset_x": "72.67955801104975", 
+        "offset_y": "39.51406249999999", 
+        "video_name": "batch2_MVI_0051"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "18", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0054"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "18", 
+        "offset_y": "13.099999999999994", 
+        "video_name": "batch2_MVI_0055"
+    }, 
+    {
+        "workerId": "AOO39X8E3OJYY", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "22", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0056"
+    }, 
+    {
+        "workerId": "A1I9RVNYDSP2BG", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "16.26519337016574", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0057"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "36.19999999999999", 
+        "video_name": "batch2_MVI_0060"
+    }, 
+    {
+        "workerId": "A1I9RVNYDSP2BG", 
+        "height": "145.80937500000002", 
+        "width": "257.78453038674036", 
+        "offset_x": "9.607734806629836", 
+        "offset_y": "28.5953125", 
+        "video_name": "batch2_MVI_0058"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "178.8", 
+        "width": "178.8", 
+        "offset_x": "87.6", 
+        "offset_y": "2.1999999999999886", 
+        "video_name": "batch2_MVI_0059"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "149.890625", 
+        "width": "265", 
+        "offset_x": "23", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0061"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "38", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0063"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "139", 
+        "width": "139", 
+        "offset_x": "83", 
+        "offset_y": "6", 
+        "video_name": "batch2_MVI_0064"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "179", 
+        "width": "179", 
+        "offset_x": "12", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0062"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "158.87777777777777", 
+        "width": "280.88888888888886", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "4.022222222222222", 
+        "video_name": "batch2_MVI_0065"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0066"
+    }, 
+    {
+        "workerId": "A3HBMPB74FWI1", 
+        "height": "140.8", 
+        "width": "248.92817679558013", 
+        "offset_x": "32", 
+        "offset_y": "22.099999999999994", 
+        "video_name": "batch2_MVI_0070"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "134.98125000000002", 
+        "width": "238.64088397790056", 
+        "offset_x": "58.35911602209943", 
+        "offset_y": "32.109375000000014", 
+        "video_name": "batch2_MVI_0067"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "137.8", 
+        "width": "243.6243093922652", 
+        "offset_x": "37.18784530386741", 
+        "offset_y": "34.099999999999994", 
+        "video_name": "batch2_MVI_0069"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "144.8", 
+        "width": "256.00000000000006", 
+        "offset_x": "44.066666666666656", 
+        "offset_y": "33.18333333333333", 
+        "video_name": "batch2_MVI_0068"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "0", 
+        "offset_y": "20.19999999999999", 
+        "video_name": "batch2_MVI_0071"
+    }, 
+    {
+        "workerId": "A39WBCB7YJO303", 
+        "height": "111.18437500000002", 
+        "width": "196.5690607734807", 
+        "offset_x": "56.75138121546965", 
+        "offset_y": "37.099999999999994", 
+        "video_name": "batch2_MVI_0072"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "117.559375", 
+        "width": "207.83977900552486", 
+        "offset_x": "51.58011049723757", 
+        "offset_y": "34.22031249999996", 
+        "video_name": "batch2_MVI_0074"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "45", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0073"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "108.39687500000001", 
+        "width": "191.64088397790056", 
+        "offset_x": "70.67955801104972", 
+        "offset_y": "46.30156249999998", 
+        "video_name": "batch2_MVI_0075"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "145", 
+        "width": "145", 
+        "offset_x": "96", 
+        "offset_y": "15", 
+        "video_name": "batch2_MVI_0077"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "128", 
+        "width": "256", 
+        "offset_x": "44", 
+        "offset_y": "22", 
+        "video_name": "batch2_MVI_0076"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "152.8", 
+        "width": "270.1436464088398", 
+        "offset_x": "24.928176795580118", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0078"
+    }, 
+    {
+        "workerId": "A1I9RVNYDSP2BG", 
+        "height": "176.103125", 
+        "width": "311.3425414364641", 
+        "offset_x": "2.828729281767939", 
+        "offset_y": "4.896874999999994", 
+        "video_name": "batch2_MVI_0080"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "140.81862847222226", 
+        "width": "248.96111111111114", 
+        "offset_x": "15.9111111111111", 
+        "offset_y": "17.074019097222216", 
+        "video_name": "batch2_MVI_0081"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "134.690625", 
+        "width": "238.12707182320443", 
+        "offset_x": "18.436464088397763", 
+        "offset_y": "15.65468749999998", 
+        "video_name": "batch2_MVI_0079"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "89", 
+        "offset_y": "2", 
+        "video_name": "batch2_MVI_0082"
+    }, 
+    {
+        "workerId": "A35Z00OTCA70QK", 
+        "height": "114.80000000000001", 
+        "width": "202.96132596685084", 
+        "offset_x": "73.03867403314923", 
+        "offset_y": "39.099999999999994", 
+        "video_name": "batch2_MVI_0083"
+    }, 
+    {
+        "workerId": "A27ZYAW0NH371F", 
+        "height": "113.80000000000001", 
+        "width": "201.19337016574588", 
+        "offset_x": "23.39226519337015", 
+        "offset_y": "48.099999999999994", 
+        "video_name": "batch2_MVI_0084"
+    }, 
+    {
+        "workerId": "AT282OSJ1UOXU", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "75.6", 
+        "offset_y": "26.099999999999994", 
+        "video_name": "batch2_MVI_0086"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "153.51874999999998", 
+        "width": "271.41436464088395", 
+        "offset_x": "48.585635359116054", 
+        "offset_y": "21.078124999999865", 
+        "video_name": "batch2_MVI_0087"
+    }, 
+    {
+        "workerId": "AMM44H2YGFFYB", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "0", 
+        "offset_y": "33.099999999999994", 
+        "video_name": "batch2_MVI_0085"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "167.8", 
+        "width": "296.6629834254144", 
+        "offset_x": "11.668508287292816", 
+        "offset_y": "12.199999999999989", 
+        "video_name": "batch2_MVI_0088"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "87.6", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0089"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "180.8", 
+        "width": "319.646408839779", 
+        "offset_x": "0.3535911602210149", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0090"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "164.86083333333335", 
+        "width": "291.4666666666667", 
+        "offset_x": "1.833333333333323", 
+        "offset_y": "7.200720486111105", 
+        "video_name": "batch2_MVI_0091"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "6", 
+        "offset_y": "18", 
+        "video_name": "batch2_MVI_0092"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "146", 
+        "width": "146", 
+        "offset_x": "96", 
+        "offset_y": "14", 
+        "video_name": "batch2_MVI_0094"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "131.8", 
+        "width": "131.8", 
+        "offset_x": "171.6", 
+        "offset_y": "38.099999999999994", 
+        "video_name": "batch2_MVI_0093"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "149.8", 
+        "width": "149.8", 
+        "offset_x": "82.6", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0096"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "150", 
+        "width": "150", 
+        "offset_x": "85", 
+        "offset_y": "4", 
+        "video_name": "batch2_MVI_0097"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "30", 
+        "offset_y": "25.19999999999999", 
+        "video_name": "batch2_MVI_0095"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "154.8", 
+        "width": "273.6795580110497", 
+        "offset_x": "24.160220994475125", 
+        "offset_y": "24.19999999999999", 
+        "video_name": "batch2_MVI_0098"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "27", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0100"
+    }, 
+    {
+        "workerId": "A1188ZFLVWBRRW", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "54.00000000000001", 
+        "offset_y": "20.099999999999994", 
+        "video_name": "batch2_MVI_0101"
+    }, 
+    {
+        "workerId": "A9YQQIZRWVPIT", 
+        "height": "154", 
+        "width": "154", 
+        "offset_x": "104", 
+        "offset_y": "15.5", 
+        "video_name": "batch2_MVI_0099"
+    }, 
+    {
+        "workerId": "A2NPNKSW89BODS", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18.740331491712688", 
+        "offset_y": "4.099999999999994", 
+        "video_name": "batch2_MVI_0102"
+    }, 
+    {
+        "workerId": "A341LHR7178BUY", 
+        "height": "164.8", 
+        "width": "164.8", 
+        "offset_x": "66.6", 
+        "offset_y": "16.19999999999999", 
+        "video_name": "batch2_MVI_0103"
+    }, 
+    {
+        "workerId": "A1I9RVNYDSP2BG", 
+        "height": "147.79687500000003", 
+        "width": "261.2983425414365", 
+        "offset_x": "57.817679558011015", 
+        "offset_y": "2", 
+        "video_name": "batch2_MVI_0104"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "173.8", 
+        "width": "173.8", 
+        "offset_x": "81.1", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0106"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0.8888888888888831", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0107"
+    }, 
+    {
+        "workerId": "A38BNV13AV0S8Y", 
+        "height": "181", 
+        "width": "181", 
+        "offset_x": "35.099999999999994", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0105"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "85.80000000000001", 
+        "width": "85.80000000000001", 
+        "offset_x": "120.6", 
+        "offset_y": "40.099999999999994", 
+        "video_name": "batch2_MVI_0108"
+    }, 
+    {
+        "workerId": "A3RKOMHCIRVN0N", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "49", 
+        "offset_y": "17.099999999999994", 
+        "video_name": "batch2_MVI_0109"
+    }, 
+    {
+        "workerId": "A3R25SV8HUGML2", 
+        "height": "144.80000000000004", 
+        "width": "256.00000000000006", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "18.1", 
+        "video_name": "batch2_MVI_0110"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "161.76875", 
+        "width": "286", 
+        "offset_x": "2", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0111"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "154.8", 
+        "width": "273.6795580110497", 
+        "offset_x": "12.160220994475134", 
+        "offset_y": "24.099999999999994", 
+        "video_name": "batch2_MVI_0112"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "155.8", 
+        "width": "275.4475138121547", 
+        "offset_x": "22.276243093922638", 
+        "offset_y": "12.099999999999994", 
+        "video_name": "batch2_MVI_0113"
+    }, 
+    {
+        "workerId": "A13W8W81TPORYZ", 
+        "height": "161.165625", 
+        "width": "284.9337016574586", 
+        "offset_x": "13.033149171270711", 
+        "offset_y": "19.834374999999994", 
+        "video_name": "batch2_MVI_0114"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "30.40883977900552", 
+        "offset_y": "15.199999999999989", 
+        "video_name": "batch2_MVI_0117"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "162.9", 
+        "width": "288", 
+        "offset_x": "32", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0115"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "30.099999999999994", 
+        "video_name": "batch2_MVI_0116"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "20", 
+        "offset_y": "34.099999999999994", 
+        "video_name": "batch2_MVI_0120"
+    }, 
+    {
+        "workerId": "A1VLZL3CA1WMPT", 
+        "height": "158.578125", 
+        "width": "280.35911602209944", 
+        "offset_x": "0", 
+        "offset_y": "22.421875", 
+        "video_name": "batch2_MVI_0118"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "-0.6000000000000096", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0121"
+    }, 
+    {
+        "workerId": "A3VQEWV5O8STTF", 
+        "height": "175.325", 
+        "width": "309.96685082872926", 
+        "offset_x": "10.033149171270736", 
+        "offset_y": "5.675000000000011", 
+        "video_name": "batch2_MVI_0119"
+    }, 
+    {
+        "workerId": "A2T5CROJ0FWIJY", 
+        "height": "155", 
+        "width": "155", 
+        "offset_x": "69", 
+        "offset_y": "2.5", 
+        "video_name": "batch2_MVI_0122"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "53", 
+        "offset_y": "26.099999999999994", 
+        "video_name": "batch2_MVI_0123"
+    }, 
+    {
+        "workerId": "A36YRPNNVKN556", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "22.099999999999994", 
+        "video_name": "batch2_MVI_0125"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "153.76875", 
+        "width": "271.85635359116026", 
+        "offset_x": "1.0718232044198874", 
+        "offset_y": "27.099999999999994", 
+        "video_name": "batch2_MVI_0124"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "130", 
+        "width": "130", 
+        "offset_x": "90", 
+        "offset_y": "23", 
+        "video_name": "batch2_MVI_0126"
+    }, 
+    {
+        "workerId": "A2HEN1I8HCL0VP", 
+        "height": "119.80000000000001", 
+        "width": "119.80000000000001", 
+        "offset_x": "96.1", 
+        "offset_y": "23.599999999999994", 
+        "video_name": "batch2_MVI_0129"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "131.8", 
+        "width": "131.8", 
+        "offset_x": "162.6", 
+        "offset_y": "39.19999999999999", 
+        "video_name": "batch2_MVI_0127"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "154.8", 
+        "width": "273.6795580110497", 
+        "offset_x": "18.16022099447513", 
+        "offset_y": "23.099999999999994", 
+        "video_name": "batch2_MVI_0128"
+    }, 
+    {
+        "workerId": "A3CYS14RCWT0OO", 
+        "height": "144.8", 
+        "width": "144.8", 
+        "offset_x": "38.599999999999994", 
+        "offset_y": "25.099999999999994", 
+        "video_name": "batch2_MVI_0130"
+    }, 
+    {
+        "workerId": "APSAGRZ061FZJ", 
+        "height": "159.82677083333334", 
+        "width": "282.5666666666667", 
+        "offset_x": "9.666666666666657", 
+        "offset_y": "21.173229166666644", 
+        "video_name": "batch2_MVI_0131"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "147.8", 
+        "width": "147.8", 
+        "offset_x": "88.6", 
+        "offset_y": "19.099999999999994", 
+        "video_name": "batch2_MVI_0132"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "159.8", 
+        "width": "159.8", 
+        "offset_x": "87.6", 
+        "offset_y": "18.099999999999994", 
+        "video_name": "batch2_MVI_0133"
+    }, 
+    {
+        "workerId": "A1K9PIQUNAFW51", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "16", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch2_MVI_0134"
+    }, 
+    {
+        "workerId": "A2AWBDW9V1E9KT", 
+        "height": "152", 
+        "width": "152", 
+        "offset_x": "90.6", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0135"
+    }, 
+    {
+        "workerId": "AMG9Y1YLBTKIV", 
+        "height": "121.67222222222222", 
+        "width": "215.1111111111111", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "41.227777777777774", 
+        "video_name": "batch2_MVI_0136"
+    }, 
+    {
+        "workerId": "A2K2T23JWSB8R4", 
+        "height": "138", 
+        "width": "138", 
+        "offset_x": "86", 
+        "offset_y": "16", 
+        "video_name": "batch2_MVI_0137"
+    }, 
+    {
+        "workerId": "A1WR2AKX164FZO", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "14", 
+        "offset_y": "8.099999999999994", 
+        "video_name": "batch2_MVI_0139"
+    }, 
+    {
+        "workerId": "A2RYRS301XIZZD", 
+        "height": "147.51875", 
+        "width": "260.8066298342541", 
+        "offset_x": "54.59668508287293", 
+        "offset_y": "1.2406249999999943", 
+        "video_name": "batch2_MVI_0140"
+    }, 
+    {
+        "workerId": "A2BR18VGJ6ABPK", 
+        "height": "107.42812500000001", 
+        "width": "189.92817679558013", 
+        "offset_x": "68.53591160220995", 
+        "offset_y": "56.78593749999997", 
+        "video_name": "batch2_MVI_0138"
+    }, 
+    {
+        "workerId": "A1JVFEIQP6X5H6", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "43", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0141"
+    }, 
+    {
+        "workerId": "A8WLCSZLNZ8BL", 
+        "height": "173.19687499999998", 
+        "width": "306.20441988950273", 
+        "offset_x": "0", 
+        "offset_y": "3.8234374999999994", 
+        "video_name": "batch2_MVI_0144"
+    }, 
+    {
+        "workerId": "ASTUVXX56HNU2", 
+        "height": "140.0927430555556", 
+        "width": "247.6777777777778", 
+        "offset_x": "23.08888888888887", 
+        "offset_y": "27.56634750366211", 
+        "video_name": "batch2_MVI_0143"
+    }, 
+    {
+        "workerId": "A3PAKT8TH3N2ZZ", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "8.204419889502754", 
+        "offset_y": "0", 
+        "video_name": "batch2_MVI_0142"
+    }
+]
