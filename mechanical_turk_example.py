@@ -18,9 +18,11 @@ HOST = 'mechanicalturk.amazonaws.com'
 connection = MTurkConnection(aws_access_key_id=AWS_ACCESS_KEY_ID,
                              aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
                              host=HOST)
-TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
+# TARGET_TITLE = "Crop a Video to Frame a Demonstrator"
+TARGET_TITLE = "Trim a Video"
 REVIEWABLE_STATUS = "Reviewable"
 
+'''
 all_responses = []
 for hit in connection.get_all_hits():
     if hit.Title != TARGET_TITLE:
@@ -39,6 +41,7 @@ for hit in connection.get_all_hits():
 with open("responses.json", "w+") as f:
     json_str = json.dumps(all_responses, indent=4)
     f.write(json_str)
+'''
 
 '''
 all_hits = [hit for hit in connection.get_all_hits() if hit.Title == TARGET_TITLE]
@@ -58,15 +61,15 @@ for hit in reviewable_hits:
         # connection.approve_assignment(assignment.AssignmentId)
 '''
 
-'''
 FILENAME_DIR = '/Users/slobdell/Movies/Miro Video Converter/'
 for filename in os.listdir(FILENAME_DIR):
     video_name = filename.replace(".mp4.webmsd.webm", "")
-    url = "https://mturk-demonstration.herokuapp.com/crop/%s/" % video_name
+    url = "https://mturk-demonstration.herokuapp.com/trim/%s/" % video_name
     print url
-    title = "Crop a Video to Frame a Demonstrator"
-    description = "Crop a video to best frame all of the movements of the demonstrator"
-    keywords = ["video editing", "video", "crop"]
+    continue
+    title = "(FIREFOX ONLY) Trim a video to the start of an exercise demonstration"
+    description = "Trim a video to the start of an exercise demonstration"
+    keywords = ["video editing", "video", "trim"]
     frame_height = 800
     amount = 0.05
 
@@ -82,4 +85,3 @@ for filename in os.listdir(FILENAME_DIR):
         reward=Price(amount=amount),
         response_groups=('Minimal', 'HITDetail'),  # I don't know what response groups are
     )
-'''
