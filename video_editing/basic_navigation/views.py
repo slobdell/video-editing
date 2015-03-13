@@ -26,6 +26,20 @@ def render_to_json(data, status=200):
     return HttpResponse(json.dumps(data), content_type="application/json", status=status)
 
 
+def trimreverse(request, video_name):
+    render_data = {
+        "worker_id": request.GET.get("workerId", ""),
+        "assignment_id": request.GET.get("assignmentId", ""),
+        "amazon_host": AMAZON_HOST,
+        "video_name": video_name,
+        "hit_id": request.GET.get("hitId", ""),
+    }
+
+    response = render_to_response("trimreverse.html", render_data)
+    response['x-frame-options'] = 'this_can_be_anything'
+    return response
+
+
 def trim(request, video_name):
     render_data = {
         "worker_id": request.GET.get("workerId", ""),

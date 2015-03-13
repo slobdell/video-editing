@@ -1,0 +1,52 @@
+{% load staticfiles %}
+<html>
+    <head>
+        {% include "_trimreverse_js_scripts.html" %}
+    </head>
+    <body>
+<div style="margin-left: 40px;">
+        <div class="instructions">
+            <h2>Move the slider to the start of the exercise demonstration</h2>
+<ul>
+<li>These videos are actually in reverse if it looks weird (to try and make it easier for you all), but the concept shouldn't change</li>
+<li>These are uncut videos of exercise demonstrations</li>
+<li>Many videos do not need any trimming at all</li>
+<li>We want to trim the beginning of the video of any unnecessary "setup" or outtakes</li>
+<li>We want to eliminate as much "dead space" as possible that isn't relevant to the actual exercise</li>
+<li>A few videos are also outtakes.  We will still accept your work.</li>
+<li>Thank you for your help!!</li>
+</ul>
+        </div>
+        <form action="{{ amazon_host }}" method="POST">
+            <input type="hidden" id="assignmentId" value="{{ assignment_id }}" name="assignmentId"/>
+            <input type="hidden" id="workerId" value="{{ worker_id }}" name="workerId"/>
+            <input type="hidden" id="hitId" value="{{ hit_id }}" name="hitId"/>
+            <input type="hidden" id="video_name" name="video_name" value="{{ video_name }}" />
+            <input type="hidden" id="from_end" name="from_end" value="" />
+
+            <div class="viewable-area" style="width: 320px; overflow: hidden; display: block; ">
+
+                <video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: 0px">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/reversed_{{ video_name }}.webmsd.webm" type="video/webm" class="webmsource">
+
+                </video>
+
+            </div>
+            <div style="clear: both;"></div>
+        <input type="submit" value="submit" style="margin: 20px;">
+        </form>
+        <div class="slider-wrapper" style="width: 40%;">
+            <h3>Video Start</h3>
+            <input type="text" class="slider-fitness" />
+        </div>
+<div class="viewable-area" style="margin-top: 40px; width: 320px; overflow: hidden; display: block; ">
+
+                <video crossOrigin="anonymous" id="preview_video" muted="" autoplay="" style="width: 320px; margin-left: 0px">
+<source src="https://s3-us-west-1.amazonaws.com/workout-generator-exercises/wip/reversed_{{ video_name }}.webmsd.webm" type="video/webm" class="webmsource">
+
+                </video>
+
+            </div>
+</div>
+    </body>
+</html>
