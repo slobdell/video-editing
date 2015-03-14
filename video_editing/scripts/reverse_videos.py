@@ -12,6 +12,7 @@ RESIZE_WIDTH = 360
 
 def resized_frame(frame):
     height, width = frame.shape[0: 2]
+    import pdb; pdb.set_trace()
     desired_width = RESIZE_WIDTH
     desired_to_actual = float(desired_width) / width
     new_width = int(width * desired_to_actual)
