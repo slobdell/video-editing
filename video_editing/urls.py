@@ -8,5 +8,7 @@ urlpatterns = patterns('',
     url(r'^trimreverse/(?P<video_name>\w+)/', views.trimreverse, name='trimreverse'),
     url(r'^self/(?P<video_name>\w+)/', views.local_review, name='crop'),
     url(r'^self/', views.local_review, name='blah'),
+    url(r'^selftrim/(?P<video_name>\w+)/', views.trim_review, name='selftrim'),
+    url(r'^selftrim/', views.trim_review, name='selftrim'),
     url(r'^secretreview/', views.secret_review, name='secret-review'),
 )

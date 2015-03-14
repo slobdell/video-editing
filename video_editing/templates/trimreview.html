@@ -1,0 +1,48 @@
+{% load staticfiles %}
+<html>
+    <head>
+        {% include "_trimreview_js_scripts.html" %}
+    </head>
+    <body>
+        <div style="margin-left: 40px;">
+            <form action="." method="POST">
+                <input type="hidden" id="video_name" name="video_name" value="{{ video_name }}" />
+                <input type="hidden" id="start" name="start" value="{{ start }}" />
+                <input type="hidden" id="from_end" name="from_end" value="{{ from_end }}" />
+
+            <input type="submit" value="submit" style="margin: 20px;">
+            </form>
+            <div class="viewable-area" style="width: 320px; overflow: hidden; display: block; ">
+                <video crossOrigin="anonymous" id="main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: 0px">
+                    <source src="/static/movies/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+                </video>
+            </div>
+            <div style="clear: both;"></div>
+
+            <div class="slider-wrapper" style="width: 40%;">
+                <h3>Video Start</h3>
+                <input type="text" class="slider-fitness" />
+            </div>
+            <div class="viewable-area" style="margin-top: 40px; width: 320px; overflow: hidden; display: block; ">
+                <video crossOrigin="anonymous" id="preview_video" muted="" autoplay="" style="width: 320px; margin-left: 0px">
+                    <source src="/static/movies/{{ video_name }}.mp4.webmsd.webm" type="video/webm" class="webmsource">
+                </video>
+            </div>
+            <div class="viewable-area" style="width: 320px; margin-top: 50px; overflow: hidden; display: block; ">
+                <video crossOrigin="anonymous" id="reverse_main_video" muted="" autoplay="" loop="" style="width: 320px; margin-left: 0px">
+                    <source src="/static/movies/reversed_{{ video_name }}.webmsd.webm" type="video/webm" class="webmsource">
+                </video>
+            </div>
+            <div style="clear: both;"></div>
+            <div class="slider-wrapper" style="width: 40%;">
+                <h3>Video End</h3>
+                <input type="text" class="reverse-slider" />
+            </div>
+            <div class="viewable-area" style="margin-top: 40px; width: 320px; overflow: hidden; display: block; ">
+                <video crossOrigin="anonymous" id="reverse_preview_video" muted="" autoplay="" style="width: 320px; margin-left: 0px">
+                    <source src="/static/movies/reversed_{{ video_name }}.webmsd.webm" type="video/webm" class="webmsource">
+                </video>
+            </div>
+        </div>
+    </body>
+</html>

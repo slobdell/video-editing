@@ -95,6 +95,65 @@ def _find_next_video_name():
     raise ValueError("ALL DONE")
 
 
+def _find_next_trim_video_name():
+    with open("trim_responses.json", "rb") as f:
+        user_responses = json.loads(f.read())
+    with open("trim_reviews.json", "rb") as f:
+        reviews = json.loads(f.read())
+    available_video_names = {item["video_name"] for item in user_responses}
+    finished_video_names = {item["video_name"] for item in reviews}
+    unfinished_video_names = available_video_names - finished_video_names
+    for video_name in unfinished_video_names:
+        return video_name
+    raise ValueError("ALL DONE")
+
+
+def trim_review(request, video_name=None):
+    if request.method == "POST":
+        with open("trim_reviews.json", "rb") as f:
+            current_reviews = json.loads(f.read())
+        new_review_keys = ("start", "from_end", "video_name")
+        new_review = {key: request.POST[key] for key in new_review_keys}
+
+        existing_reviews = [item for item in current_reviews if item["video_name"] == video_name]
+        if existing_reviews:
+            existing_review = existing_reviews[0]
+            existing_review.update(new_review)
+        else:
+            current_reviews.append(new_review)
+        with open("trim_reviews.json", "w+") as f:
+            f.write(json.dumps(current_reviews, indent=4))
+
+    if video_name is None:
+        video_name = _find_next_trim_video_name()
+    with open("trim_responses.json", "rb") as f:
+        user_responses = json.loads(f.read())
+        video_data = [item for item in user_responses if item["video_name"] == video_name][0]
+    with open("trim_reverse_responses.json", "rb") as f:
+        user_reverse_responses = json.loads(f.read())
+        video_end_data = [item for item in user_reverse_responses if item["video_name"] == video_name][0]
+
+    with open("trim_reviews.json", "rb") as f:
+        reviews = json.loads(f.read())
+        finished_reviews = [item for item in reviews if item["video_name"] == video_name]
+        if finished_reviews:
+            video_data = finished_reviews[0]
+
+    render_data = {
+        "worker_id": request.GET.get("workerId", ""),
+        "assignment_id": request.GET.get("assignmentId", ""),
+        "amazon_host": AMAZON_HOST,
+        "video_name": video_name,
+        "hit_id": request.GET.get("hitId", ""),
+    }
+    render_data.update(video_data)
+    render_data.update(video_end_data)
+    render_data["start"] = render_data["start"] or 0
+    render_data["from_end"] = render_data["from_end"] or 0
+
+    return render_to_response("trimreview.html", render_data)
+
+
 def local_review(request, video_name=None):
 
     if request.method == "POST":

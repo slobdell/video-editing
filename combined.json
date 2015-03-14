@@ -1,0 +1,3107 @@
+{
+    "batch1_MVI_0002": {
+        "start": "0", 
+        "height": "159.39312500000003", 
+        "width": "281.8", 
+        "offset_x": "22.19999999999999", 
+        "offset_y": "1", 
+        "from_end": "0.31110800000000005", 
+        "video_name": "batch1_MVI_0002"
+    }, 
+    "batch1_MVI_0003": {
+        "start": "0", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "19.801104972375697", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0003"
+    }, 
+    "batch1_MVI_0001": {
+        "start": "0", 
+        "height": "145.365625", 
+        "width": "257", 
+        "offset_x": "40", 
+        "offset_y": "9", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0001"
+    }, 
+    "batch1_MVI_0006": {
+        "start": "0.7070050000000001", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "21.856353591160207", 
+        "offset_y": "0", 
+        "from_end": "0.282802", 
+        "video_name": "batch1_MVI_0006"
+    }, 
+    "batch1_MVI_0007": {
+        "start": "0.502154", 
+        "height": "179.8", 
+        "width": "317.878453038674", 
+        "offset_x": "0", 
+        "offset_y": "1.1999999999999886", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0007"
+    }, 
+    "batch1_MVI_0004": {
+        "start": "0", 
+        "height": "167.759375", 
+        "width": "296.5911602209945", 
+        "offset_x": "12.204419889502747", 
+        "offset_y": "5.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0004"
+    }, 
+    "batch1_MVI_0005": {
+        "start": "0.16015000000000001", 
+        "height": "140.903125", 
+        "width": "249.11049723756904", 
+        "offset_x": "68.88950276243096", 
+        "offset_y": "7.948437500000004", 
+        "from_end": "1.095426", 
+        "video_name": "batch1_MVI_0005"
+    }, 
+    "batch1_MVI_0008": {
+        "start": "0", 
+        "height": "179.9025", 
+        "width": "318.0596685082873", 
+        "offset_x": "1.9403314917126977", 
+        "offset_y": "1.0974999999999966", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0008"
+    }, 
+    "batch1_MVI_0009": {
+        "start": "0", 
+        "height": "180.32125000000002", 
+        "width": "318.8", 
+        "offset_x": "0", 
+        "offset_y": "0.6787499999999795", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0009"
+    }, 
+    "batch1_MVI_0067": {
+        "start": "0", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "31", 
+        "offset_y": "32.099999999999994", 
+        "from_end": "0.8906999999999999", 
+        "video_name": "batch1_MVI_0067"
+    }, 
+    "batch2_MVI_0098": {
+        "start": "0.929611", 
+        "height": "173.8", 
+        "width": "307.2707182320442", 
+        "offset_x": "10.160220994475125", 
+        "offset_y": "7.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0098"
+    }, 
+    "batch2_MVI_0099": {
+        "start": "1.5119249999999997", 
+        "height": "165.1125", 
+        "width": "291.91160220994476", 
+        "offset_x": "28.08839779005524", 
+        "offset_y": "5.5", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0099"
+    }, 
+    "batch2_MVI_0090": {
+        "start": "0", 
+        "height": "180.79999999999998", 
+        "width": "319.646408839779", 
+        "offset_x": "0.3535911602210149", 
+        "offset_y": "0", 
+        "from_end": "0.07497", 
+        "video_name": "batch2_MVI_0090"
+    }, 
+    "batch2_MVI_0091": {
+        "start": "0", 
+        "height": "180.86083333333335", 
+        "width": "319.75395948434624", 
+        "offset_x": "0", 
+        "offset_y": "0.13916666666665378", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0091"
+    }, 
+    "batch0_MVI_0232": {
+        "start": "0", 
+        "height": "176.8", 
+        "width": "312.57458563535914", 
+        "offset_x": "0", 
+        "offset_y": "4.199999999999989", 
+        "from_end": "3.889752", 
+        "video_name": "batch0_MVI_0232"
+    }, 
+    "batch0_MVI_0233": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.573878", 
+        "video_name": "batch0_MVI_0233"
+    }, 
+    "batch1_MVI_0075": {
+        "start": "1.295286", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0075"
+    }, 
+    "batch0_MVI_0231": {
+        "start": "1.3981650000000003", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0231"
+    }, 
+    "batch1_MVI_0073": {
+        "start": "1.495452", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0073"
+    }, 
+    "batch0_MVI_0237": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.567225", 
+        "video_name": "batch0_MVI_0237"
+    }, 
+    "batch0_MVI_0234": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.286286", 
+        "video_name": "batch0_MVI_0234"
+    }, 
+    "batch1_MVI_0070": {
+        "start": "0.48795499999999997", 
+        "height": "148.89937500000002", 
+        "width": "263.2475138121547", 
+        "offset_x": "14.599999999999994", 
+        "offset_y": "32.10062499999998", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0070"
+    }, 
+    "batch2_MVI_0087": {
+        "start": "0.6373000000000001", 
+        "height": "153.51874999999998", 
+        "width": "271.41436464088395", 
+        "offset_x": "48.585635359116054", 
+        "offset_y": "14.481250000000017", 
+        "from_end": "0.611808", 
+        "video_name": "batch2_MVI_0087"
+    }, 
+    "batch2_MVI_0086": {
+        "start": "0.64194", 
+        "height": "137.33375", 
+        "width": "242.8", 
+        "offset_x": "28.599999999999994", 
+        "offset_y": "26.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0086"
+    }, 
+    "batch0_MVI_0238": {
+        "start": "0", 
+        "height": "146.14375", 
+        "width": "258.37569060773484", 
+        "offset_x": "51.62430939226516", 
+        "offset_y": "34.85624999999999", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0238"
+    }, 
+    "batch2_MVI_0093": {
+        "start": "1.80928", 
+        "height": "132.99", 
+        "width": "235.1204419889503", 
+        "offset_x": "50.599999999999994", 
+        "offset_y": "48.00999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0093"
+    }, 
+    "batch2_MVI_0083": {
+        "start": "0", 
+        "height": "120.45625000000001", 
+        "width": "212.96132596685084", 
+        "offset_x": "73.03867403314923", 
+        "offset_y": "38.099999999999994", 
+        "from_end": "0.366172", 
+        "video_name": "batch2_MVI_0083"
+    }, 
+    "batch2_MVI_0082": {
+        "start": "0", 
+        "height": "142.42437500000003", 
+        "width": "251.8", 
+        "offset_x": "21", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0082"
+    }, 
+    "batch2_MVI_0081": {
+        "start": "0", 
+        "height": "140.81862847222223", 
+        "width": "248.96111111111114", 
+        "offset_x": "15.9111111111111", 
+        "offset_y": "17.074019097222216", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0081"
+    }, 
+    "batch2_MVI_0080": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0080"
+    }, 
+    "batch0_MVI_0148": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.560604", 
+        "video_name": "batch0_MVI_0148"
+    }, 
+    "batch0_MVI_0149": {
+        "start": "1.5704589999999998", 
+        "height": "133.759375", 
+        "width": "236.48066298342542", 
+        "offset_x": "56.14364640883977", 
+        "offset_y": "32", 
+        "from_end": "0.48022299999999996", 
+        "video_name": "batch0_MVI_0149"
+    }, 
+    "batch0_MVI_0144": {
+        "start": "3.942939", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.767767", 
+        "video_name": "batch0_MVI_0144"
+    }, 
+    "batch0_MVI_0145": {
+        "start": "0.6185120000000001", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.04748", 
+        "video_name": "batch0_MVI_0145"
+    }, 
+    "batch0_MVI_0146": {
+        "start": "0", 
+        "height": "179.953125", 
+        "width": "318.1491712707182", 
+        "offset_x": "0.6022099447513938", 
+        "offset_y": "1.046875", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0146"
+    }, 
+    "batch0_MVI_0147": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0147"
+    }, 
+    "batch0_MVI_0140": {
+        "start": "1.5518960000000002", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.095456", 
+        "video_name": "batch0_MVI_0140"
+    }, 
+    "batch0_MVI_0141": {
+        "start": "1.493416", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.12812", 
+        "video_name": "batch0_MVI_0141"
+    }, 
+    "batch0_MVI_0142": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0142"
+    }, 
+    "batch0_MVI_0143": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0143"
+    }, 
+    "batch2_MVI_0102": {
+        "start": "0", 
+        "height": "176.546875", 
+        "width": "312.1270718232044", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0102"
+    }, 
+    "batch2_MVI_0142": {
+        "start": "0", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "7.204419889502754", 
+        "offset_y": "0", 
+        "from_end": "0.23210099999999997", 
+        "video_name": "batch2_MVI_0142"
+    }, 
+    "batch2_MVI_0143": {
+        "start": "0.700665", 
+        "height": "143.0927430555556", 
+        "width": "252.98164518109274", 
+        "offset_x": "19.08888888888887", 
+        "offset_y": "23.56634750366211", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0143"
+    }, 
+    "batch2_MVI_0140": {
+        "start": "0", 
+        "height": "147.51874999999998", 
+        "width": "260.8066298342541", 
+        "offset_x": "54.59668508287293", 
+        "offset_y": "1.2406249999999943", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0140"
+    }, 
+    "batch2_MVI_0141": {
+        "start": "0.327", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0141"
+    }, 
+    "batch2_MVI_0144": {
+        "start": "0", 
+        "height": "178.19687499999998", 
+        "width": "315.0441988950276", 
+        "offset_x": "4.955801104972409", 
+        "offset_y": "2.8031250000000227", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0144"
+    }, 
+    "batch2_MVI_0103": {
+        "start": "0.06993600000000001", 
+        "height": "167.86812500000002", 
+        "width": "296.7834254143647", 
+        "offset_x": "0", 
+        "offset_y": "3.1999999999999886", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0103"
+    }, 
+    "batch2_MVI_0038": {
+        "start": "0", 
+        "height": "167.81875", 
+        "width": "296.69613259668506", 
+        "offset_x": "19", 
+        "offset_y": "13.181250000000006", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0038"
+    }, 
+    "batch2_MVI_0039": {
+        "start": "1.66248", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "37.48066298342542", 
+        "offset_y": "21.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0039"
+    }, 
+    "batch2_MVI_0036": {
+        "start": "0", 
+        "height": "157.8", 
+        "width": "278.98342541436466", 
+        "offset_x": "20", 
+        "offset_y": "23.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0036"
+    }, 
+    "batch2_MVI_0037": {
+        "start": "0", 
+        "height": "145.93125", 
+        "width": "258", 
+        "offset_x": "5.599999999999994", 
+        "offset_y": "34.5", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0037"
+    }, 
+    "batch2_MVI_0034": {
+        "start": "0", 
+        "height": "178.071875", 
+        "width": "314.8232044198895", 
+        "offset_x": "0", 
+        "offset_y": "1.9281249999999943", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0034"
+    }, 
+    "batch2_MVI_0035": {
+        "start": "0", 
+        "height": "162.80937500000002", 
+        "width": "287.83977900552486", 
+        "offset_x": "3", 
+        "offset_y": "8", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0035"
+    }, 
+    "batch2_MVI_0032": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.15515", 
+        "video_name": "batch2_MVI_0032"
+    }, 
+    "batch2_MVI_0033": {
+        "start": "0", 
+        "height": "180.32125000000002", 
+        "width": "318.8", 
+        "offset_x": "1.1999999999999886", 
+        "offset_y": "0.6787499999999795", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0033"
+    }, 
+    "batch2_MVI_0030": {
+        "start": "0", 
+        "height": "180.32125000000002", 
+        "width": "318.8", 
+        "offset_x": "1.1999999999999886", 
+        "offset_y": "0.6787499999999795", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0030"
+    }, 
+    "batch2_MVI_0031": {
+        "start": "0", 
+        "height": "175.01250000000002", 
+        "width": "309.414364640884", 
+        "offset_x": "10.585635359115997", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0031"
+    }, 
+    "batch2_MVI_0137": {
+        "start": "0", 
+        "height": "88.25625000000001", 
+        "width": "156.03314917127074", 
+        "offset_x": "72.96685082872933", 
+        "offset_y": "57", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0137"
+    }, 
+    "batch2_MVI_0136": {
+        "start": "0.652212", 
+        "height": "88.86597222222221", 
+        "width": "157.1111111111111", 
+        "offset_x": "68.99999999999999", 
+        "offset_y": "57.227777777777774", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0136"
+    }, 
+    "batch2_MVI_0135": {
+        "start": "0.449328", 
+        "height": "151.396875", 
+        "width": "267.6629834254143", 
+        "offset_x": "26.224309392265177", 
+        "offset_y": "3", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0135"
+    }, 
+    "batch2_MVI_0134": {
+        "start": "0.24616000000000002", 
+        "height": "146.446875", 
+        "width": "258.91160220994476", 
+        "offset_x": "11", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0134"
+    }, 
+    "batch2_MVI_0133": {
+        "start": "0", 
+        "height": "141.386875", 
+        "width": "249.96574585635358", 
+        "offset_x": "36.15248618784527", 
+        "offset_y": "39.613125", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0133"
+    }, 
+    "batch2_MVI_0132": {
+        "start": "0", 
+        "height": "138.6775", 
+        "width": "245.17569060773482", 
+        "offset_x": "34.82430939226521", 
+        "offset_y": "24.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0132"
+    }, 
+    "batch2_MVI_0131": {
+        "start": "1.439339", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.06432800000000001", 
+        "video_name": "batch2_MVI_0131"
+    }, 
+    "batch2_MVI_0130": {
+        "start": "0.360686", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.6978489999999999", 
+        "video_name": "batch2_MVI_0130"
+    }, 
+    "batch2_MVI_0139": {
+        "start": "0.583188", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "14", 
+        "offset_y": "8.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0139"
+    }, 
+    "batch2_MVI_0138": {
+        "start": "0", 
+        "height": "107.42812500000001", 
+        "width": "189.92817679558013", 
+        "offset_x": "68.53591160220995", 
+        "offset_y": "50.78593749999997", 
+        "from_end": "0.19655299999999998", 
+        "video_name": "batch2_MVI_0138"
+    }, 
+    "batch1_MVI_0039": {
+        "start": "1.7755249999999998", 
+        "height": "156.8", 
+        "width": "277.2154696132597", 
+        "offset_x": "16.651933701657434", 
+        "offset_y": "24.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0039"
+    }, 
+    "batch1_MVI_0038": {
+        "start": "1.274058", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.136322", 
+        "video_name": "batch1_MVI_0038"
+    }, 
+    "batch1_MVI_0033": {
+        "start": "0", 
+        "height": "165.728125", 
+        "width": "293", 
+        "offset_x": "27", 
+        "offset_y": "4", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0033"
+    }, 
+    "batch1_MVI_0032": {
+        "start": "0.13813", 
+        "height": "156.678125", 
+        "width": "277", 
+        "offset_x": "43", 
+        "offset_y": "4.676562499999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0032"
+    }, 
+    "batch1_MVI_0037": {
+        "start": "0.5923120000000001", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.5711579999999999", 
+        "video_name": "batch1_MVI_0037"
+    }, 
+    "batch1_MVI_0036": {
+        "start": "1.473336", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.291384", 
+        "video_name": "batch1_MVI_0036"
+    }, 
+    "batch1_MVI_0035": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0035"
+    }, 
+    "batch1_MVI_0034": {
+        "start": "1.028284", 
+        "height": "174.8", 
+        "width": "309.03867403314916", 
+        "offset_x": "8.961325966850804", 
+        "offset_y": "6.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0034"
+    }, 
+    "batch0_MVI_0199": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.073905", 
+        "video_name": "batch0_MVI_0199"
+    }, 
+    "batch0_MVI_0198": {
+        "start": "1.21644", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0198"
+    }, 
+    "batch0_MVI_0193": {
+        "start": "0", 
+        "height": "167.92777777777778", 
+        "width": "296.88888888888886", 
+        "offset_x": "12.561111111111096", 
+        "offset_y": "12.066666666666666", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0193"
+    }, 
+    "batch0_MVI_0192": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "11.592504", 
+        "video_name": "batch0_MVI_0192"
+    }, 
+    "batch0_MVI_0191": {
+        "start": "0", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18.74033149171269", 
+        "offset_y": "18.099999999999994", 
+        "from_end": "43.777", 
+        "video_name": "batch0_MVI_0191"
+    }, 
+    "batch0_MVI_0190": {
+        "start": "0.35219599999999995", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.5960239999999999", 
+        "video_name": "batch0_MVI_0190"
+    }, 
+    "batch0_MVI_0197": {
+        "start": "0.55935", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.601725", 
+        "video_name": "batch0_MVI_0197"
+    }, 
+    "batch0_MVI_0196": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0196"
+    }, 
+    "batch0_MVI_0195": {
+        "start": "4.23518", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.82208", 
+        "video_name": "batch0_MVI_0195"
+    }, 
+    "batch0_MVI_0194": {
+        "start": "1.5594", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0194"
+    }, 
+    "batch0_MVI_0209": {
+        "start": "0", 
+        "height": "180.8", 
+        "width": "319.646408839779", 
+        "offset_x": "0.3535911602210149", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0209"
+    }, 
+    "batch0_MVI_0208": {
+        "start": "0.9304680000000001", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.351394", 
+        "video_name": "batch0_MVI_0208"
+    }, 
+    "batch0_MVI_0203": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.450048", 
+        "video_name": "batch0_MVI_0203"
+    }, 
+    "batch0_MVI_0202": {
+        "start": "3.735872", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.558048", 
+        "video_name": "batch0_MVI_0202"
+    }, 
+    "batch0_MVI_0201": {
+        "start": "4.04248", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.966822", 
+        "video_name": "batch0_MVI_0201"
+    }, 
+    "batch0_MVI_0200": {
+        "start": "2.055504", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0200"
+    }, 
+    "batch0_MVI_0207": {
+        "start": "0", 
+        "height": "165.375", 
+        "width": "292.3756906077348", 
+        "offset_x": "13", 
+        "offset_y": "15.625", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0207"
+    }, 
+    "batch0_MVI_0206": {
+        "start": "0.791856", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.576784", 
+        "video_name": "batch0_MVI_0206"
+    }, 
+    "batch0_MVI_0205": {
+        "start": "0", 
+        "height": "163.00055555555556", 
+        "width": "288.1777777777778", 
+        "offset_x": "30.699999999999974", 
+        "offset_y": "8.43095486111111", 
+        "from_end": "0.9307439999999999", 
+        "video_name": "batch0_MVI_0205"
+    }, 
+    "batch0_MVI_0204": {
+        "start": "0", 
+        "height": "171.378125", 
+        "width": "302.9889502762431", 
+        "offset_x": "11.530386740331593", 
+        "offset_y": "9.621874999999989", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0204"
+    }, 
+    "batch2_MVI_0072": {
+        "start": "2.026328", 
+        "height": "111.18437500000002", 
+        "width": "196.5690607734807", 
+        "offset_x": "56.75138121546965", 
+        "offset_y": "37.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0072"
+    }, 
+    "batch2_MVI_0073": {
+        "start": "0.201105", 
+        "height": "165.8", 
+        "width": "293.1270718232044", 
+        "offset_x": "8.43646408839777", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0073"
+    }, 
+    "batch2_MVI_0070": {
+        "start": "0", 
+        "height": "151.95000000000005", 
+        "width": "268.6408839779006", 
+        "offset_x": "0", 
+        "offset_y": "29.049999999999955", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0070"
+    }, 
+    "batch2_MVI_0071": {
+        "start": "0", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "0", 
+        "offset_y": "20.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0071"
+    }, 
+    "batch2_MVI_0076": {
+        "start": "0", 
+        "height": "129.578125", 
+        "width": "229.08839779005524", 
+        "offset_x": "60.60773480662985", 
+        "offset_y": "22", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0076"
+    }, 
+    "batch2_MVI_0077": {
+        "start": "0", 
+        "height": "151.015625", 
+        "width": "266.9889502762431", 
+        "offset_x": "22.856353591160243", 
+        "offset_y": "29.984375", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0077"
+    }, 
+    "batch2_MVI_0074": {
+        "start": "0", 
+        "height": "112.51875", 
+        "width": "198.9281767955801", 
+        "offset_x": "49.58011049723757", 
+        "offset_y": "43.22031249999996", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0074"
+    }, 
+    "batch2_MVI_0075": {
+        "start": "0", 
+        "height": "112.35625", 
+        "width": "198.64088397790056", 
+        "offset_x": "51.67955801104972", 
+        "offset_y": "47.30156249999998", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0075"
+    }, 
+    "batch2_MVI_0078": {
+        "start": "0.484902", 
+        "height": "179.95000000000002", 
+        "width": "318.1436464088398", 
+        "offset_x": "1.8563535911602003", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0078"
+    }, 
+    "batch2_MVI_0079": {
+        "start": "0", 
+        "height": "153.80000000000004", 
+        "width": "271.9116022099448", 
+        "offset_x": "0", 
+        "offset_y": "27.19999999999996", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0079"
+    }, 
+    "batch0_MVI_0236": {
+        "start": "1.220268", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0236"
+    }, 
+    "batch2_MVI_0007": {
+        "start": "0.452144", 
+        "height": "161.19375000000002", 
+        "width": "284.98342541436466", 
+        "offset_x": "22.46408839779005", 
+        "offset_y": "9.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0007"
+    }, 
+    "batch2_MVI_0006": {
+        "start": "0", 
+        "height": "161.89444444444445", 
+        "width": "286.22222222222223", 
+        "offset_x": "16.88888888888887", 
+        "offset_y": "1.0055555555555555", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0006"
+    }, 
+    "batch2_MVI_0005": {
+        "start": "0", 
+        "height": "127.84375", 
+        "width": "226.0220994475138", 
+        "offset_x": "58.97790055248622", 
+        "offset_y": "29", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0005"
+    }, 
+    "batch2_MVI_0004": {
+        "start": "0", 
+        "height": "146.334375", 
+        "width": "258.7127071823204", 
+        "offset_x": "27.14364640883977", 
+        "offset_y": "34.665625000000006", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0004"
+    }, 
+    "batch2_MVI_0003": {
+        "start": "0", 
+        "height": "147.161875", 
+        "width": "260.1756906077348", 
+        "offset_x": "59.824309392265164", 
+        "offset_y": "10.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0003"
+    }, 
+    "batch2_MVI_0002": {
+        "start": "0", 
+        "height": "154.86812500000002", 
+        "width": "273.8", 
+        "offset_x": "19.19999999999999", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0002"
+    }, 
+    "batch2_MVI_0001": {
+        "start": "2.374428", 
+        "height": "124.4375", 
+        "width": "220", 
+        "offset_x": "65", 
+        "offset_y": "20", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0001"
+    }, 
+    "batch2_MVI_0009": {
+        "start": "0.44499", 
+        "height": "172.415625", 
+        "width": "304.8232044198895", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0009"
+    }, 
+    "batch2_MVI_0008": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0008"
+    }, 
+    "batch0_MVI_0235": {
+        "start": "0.042041999999999996", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.805805", 
+        "video_name": "batch0_MVI_0235"
+    }, 
+    "batch1_MVI_0077": {
+        "start": "0.4288200000000001", 
+        "height": "159.18437500000002", 
+        "width": "281.43093922651934", 
+        "offset_x": "0", 
+        "offset_y": "21.815624999999983", 
+        "from_end": "0.8219050000000001", 
+        "video_name": "batch1_MVI_0077"
+    }, 
+    "batch1_MVI_0076": {
+        "start": "0", 
+        "height": "171.84062500000002", 
+        "width": "303.8066298342542", 
+        "offset_x": "16.19337016574582", 
+        "offset_y": "9.159374999999983", 
+        "from_end": "0.4321", 
+        "video_name": "batch1_MVI_0076"
+    }, 
+    "batch0_MVI_0230": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0230"
+    }, 
+    "batch1_MVI_0064": {
+        "start": "0.233121", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0064"
+    }, 
+    "batch1_MVI_0065": {
+        "start": "0", 
+        "height": "120.378125", 
+        "width": "212.8232044198895", 
+        "offset_x": "51.276795580110445", 
+        "offset_y": "60.621875", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0065"
+    }, 
+    "batch1_MVI_0066": {
+        "start": "0", 
+        "height": "156.9", 
+        "width": "277.3922651933702", 
+        "offset_x": "29.348066298342545", 
+        "offset_y": "24.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0066"
+    }, 
+    "batch1_MVI_0074": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0074"
+    }, 
+    "batch1_MVI_0060": {
+        "start": "0", 
+        "height": "180.303125", 
+        "width": "318.76795580110496", 
+        "offset_x": "1.2320441988950392", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0060"
+    }, 
+    "batch1_MVI_0061": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0061"
+    }, 
+    "batch1_MVI_0062": {
+        "start": "0.7334680000000001", 
+        "height": "174.099375", 
+        "width": "307.8", 
+        "offset_x": "12.199999999999989", 
+        "offset_y": "6.900624999999991", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0062"
+    }, 
+    "batch1_MVI_0063": {
+        "start": "0.274102", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0063"
+    }, 
+    "batch2_MVI_0094": {
+        "start": "0", 
+        "height": "167.425", 
+        "width": "296", 
+        "offset_x": "24", 
+        "offset_y": "13.574999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0094"
+    }, 
+    "batch2_MVI_0095": {
+        "start": "1.505718", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "30", 
+        "offset_y": "25.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0095"
+    }, 
+    "batch2_MVI_0096": {
+        "start": "0.18616499999999997", 
+        "height": "163.35250000000002", 
+        "width": "288.8", 
+        "offset_x": "0", 
+        "offset_y": "17.64749999999998", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0096"
+    }, 
+    "batch2_MVI_0097": {
+        "start": "0.634176", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0097"
+    }, 
+    "batch1_MVI_0068": {
+        "start": "0", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "33.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0068"
+    }, 
+    "batch1_MVI_0069": {
+        "start": "1.3794480000000002", 
+        "height": "130.8", 
+        "width": "231.2486187845304", 
+        "offset_x": "47.75138121546965", 
+        "offset_y": "50.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0069"
+    }, 
+    "batch2_MVI_0092": {
+        "start": "0.276276", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0092"
+    }, 
+    "batch1_MVI_0072": {
+        "start": "0", 
+        "height": "151.6775", 
+        "width": "268.15911602209945", 
+        "offset_x": "25.393370165745864", 
+        "offset_y": "14", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0072"
+    }, 
+    "batch0_MVI_0179": {
+        "start": "0.993786", 
+        "height": "180.79999999999998", 
+        "width": "319.646408839779", 
+        "offset_x": "0.17679558011049235", 
+        "offset_y": "0.19999999999998863", 
+        "from_end": "0.360491", 
+        "video_name": "batch0_MVI_0179"
+    }, 
+    "batch0_MVI_0178": {
+        "start": "0.796314", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0178"
+    }, 
+    "batch1_MVI_0071": {
+        "start": "0.077274", 
+        "height": "178.8", 
+        "width": "316.11049723756906", 
+        "offset_x": "0", 
+        "offset_y": "2.1999999999999886", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0071"
+    }, 
+    "batch0_MVI_0171": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0171"
+    }, 
+    "batch0_MVI_0170": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0170"
+    }, 
+    "batch0_MVI_0173": {
+        "start": "0.568932", 
+        "height": "166.859375", 
+        "width": "295", 
+        "offset_x": "13", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0173"
+    }, 
+    "batch0_MVI_0172": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.9229840000000002", 
+        "video_name": "batch0_MVI_0172"
+    }, 
+    "batch0_MVI_0175": {
+        "start": "0.878598", 
+        "height": "149.425", 
+        "width": "264.1767955801105", 
+        "offset_x": "38.823204419889514", 
+        "offset_y": "31.57499999999999", 
+        "from_end": "0.46902599999999994", 
+        "video_name": "batch0_MVI_0175"
+    }, 
+    "batch0_MVI_0174": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0174"
+    }, 
+    "batch0_MVI_0177": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0177"
+    }, 
+    "batch0_MVI_0176": {
+        "start": "1.119829", 
+        "height": "138.8", 
+        "width": "245.39226519337018", 
+        "offset_x": "19.85635359116024", 
+        "offset_y": "40.099999999999994", 
+        "from_end": "0.29775799999999997", 
+        "video_name": "batch0_MVI_0176"
+    }, 
+    "batch2_MVI_0085": {
+        "start": "0.661708", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "0", 
+        "offset_y": "33.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0085"
+    }, 
+    "batch2_MVI_0084": {
+        "start": "3.033474", 
+        "height": "127.890625", 
+        "width": "226.1049723756906", 
+        "offset_x": "23.39226519337015", 
+        "offset_y": "39.099999999999994", 
+        "from_end": "0.5682300000000001", 
+        "video_name": "batch2_MVI_0084"
+    }, 
+    "batch0_MVI_0239": {
+        "start": "0.307396", 
+        "height": "146.8", 
+        "width": "259.53591160221", 
+        "offset_x": "20.635359116022123", 
+        "offset_y": "34.19999999999999", 
+        "from_end": "0.465248", 
+        "video_name": "batch0_MVI_0239"
+    }, 
+    "batch1_MVI_0079": {
+        "start": "0.38916", 
+        "height": "154.415625", 
+        "width": "273", 
+        "offset_x": "41", 
+        "offset_y": "26.584374999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0079"
+    }, 
+    "batch1_MVI_0078": {
+        "start": "0", 
+        "height": "140.9025", 
+        "width": "249.10939226519338", 
+        "offset_x": "40.29060773480664", 
+        "offset_y": "40.0975", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0078"
+    }, 
+    "batch2_MVI_0049": {
+        "start": "0", 
+        "height": "137.6275", 
+        "width": "243.31933701657456", 
+        "offset_x": "31.599999999999994", 
+        "offset_y": "20.599999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0049"
+    }, 
+    "batch2_MVI_0048": {
+        "start": "0.492514", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.5732539999999999", 
+        "video_name": "batch2_MVI_0048"
+    }, 
+    "batch2_MVI_0043": {
+        "start": "1.585853", 
+        "height": "158.00055555555556", 
+        "width": "279.33799877225294", 
+        "offset_x": "4.662001227747041", 
+        "offset_y": "22.999444444444435", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0043"
+    }, 
+    "batch2_MVI_0042": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.12412000000000001", 
+        "video_name": "batch2_MVI_0042"
+    }, 
+    "batch2_MVI_0041": {
+        "start": "0", 
+        "height": "136.7813715277778", 
+        "width": "241.82341927562925", 
+        "offset_x": "47.21546961325967", 
+        "offset_y": "22.1", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0041"
+    }, 
+    "batch2_MVI_0040": {
+        "start": "0", 
+        "height": "153.32500000000002", 
+        "width": "271.0718232044199", 
+        "offset_x": "31", 
+        "offset_y": "27.674999999999983", 
+        "from_end": "1.140282", 
+        "video_name": "batch2_MVI_0040"
+    }, 
+    "batch2_MVI_0047": {
+        "start": "0", 
+        "height": "170.31597222222226", 
+        "width": "301.11111111111114", 
+        "offset_x": "2.6666666666666754", 
+        "offset_y": "10.684027777777743", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0047"
+    }, 
+    "batch2_MVI_0046": {
+        "start": "0", 
+        "height": "135.35625000000002", 
+        "width": "239.30386740331494", 
+        "offset_x": "39.696132596685075", 
+        "offset_y": "25.846874999999944", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0046"
+    }, 
+    "batch2_MVI_0045": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0045"
+    }, 
+    "batch2_MVI_0044": {
+        "start": "1.566927", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0044"
+    }, 
+    "batch2_MVI_0124": {
+        "start": "0.707232", 
+        "height": "153.76875000000004", 
+        "width": "271.85635359116026", 
+        "offset_x": "1.0718232044198874", 
+        "offset_y": "27.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0124"
+    }, 
+    "batch2_MVI_0125": {
+        "start": "0.9024050000000001", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0125"
+    }, 
+    "batch2_MVI_0126": {
+        "start": "0.6661279999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0126"
+    }, 
+    "batch2_MVI_0127": {
+        "start": "1.22317", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.639812", 
+        "video_name": "batch2_MVI_0127"
+    }, 
+    "batch2_MVI_0120": {
+        "start": "0.52304", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "20", 
+        "offset_y": "34.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0120"
+    }, 
+    "batch2_MVI_0121": {
+        "start": "1.919492", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0121"
+    }, 
+    "batch2_MVI_0122": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0122"
+    }, 
+    "batch2_MVI_0123": {
+        "start": "3.684876", 
+        "height": "152.71875", 
+        "width": "270", 
+        "offset_x": "50", 
+        "offset_y": "26.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0123"
+    }, 
+    "batch2_MVI_0128": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0128"
+    }, 
+    "batch2_MVI_0129": {
+        "start": "1.149608", 
+        "height": "180.761875", 
+        "width": "319.5790055248619", 
+        "offset_x": "0.4209944751381034", 
+        "offset_y": "0", 
+        "from_end": "0.61778", 
+        "video_name": "batch2_MVI_0129"
+    }, 
+    "batch1_MVI_0028": {
+        "start": "2.438046", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0028"
+    }, 
+    "batch1_MVI_0029": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0029"
+    }, 
+    "batch1_MVI_0020": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0020"
+    }, 
+    "batch1_MVI_0021": {
+        "start": "2.163896", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0021"
+    }, 
+    "batch1_MVI_0022": {
+        "start": "0", 
+        "height": "174.66500000000002", 
+        "width": "308.8", 
+        "offset_x": "6.199999999999989", 
+        "offset_y": "6.3349999999999795", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0022"
+    }, 
+    "batch1_MVI_0023": {
+        "start": "5.509065", 
+        "height": "156.7", 
+        "width": "277.03867403314916", 
+        "offset_x": "27.480662983425404", 
+        "offset_y": "24.299999999999983", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0023"
+    }, 
+    "batch1_MVI_0024": {
+        "start": "0.747664", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0024"
+    }, 
+    "batch1_MVI_0025": {
+        "start": "0.26526", 
+        "height": "166.546875", 
+        "width": "294.4475138121547", 
+        "offset_x": "25.552486187845318", 
+        "offset_y": "13.453125", 
+        "from_end": "1.5031400000000001", 
+        "video_name": "batch1_MVI_0025"
+    }, 
+    "batch1_MVI_0026": {
+        "start": "0", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "12.20441988950275", 
+        "offset_y": "17.19999999999999", 
+        "from_end": "0.7567560000000001", 
+        "video_name": "batch1_MVI_0026"
+    }, 
+    "batch1_MVI_0027": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0027"
+    }, 
+    "batch0_MVI_0188": {
+        "start": "0.63455", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0188"
+    }, 
+    "batch0_MVI_0189": {
+        "start": "0", 
+        "height": "177.375", 
+        "width": "313.5911602209945", 
+        "offset_x": "1", 
+        "offset_y": "1.625", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0189"
+    }, 
+    "batch0_MVI_0180": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0180"
+    }, 
+    "batch0_MVI_0181": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0181"
+    }, 
+    "batch0_MVI_0182": {
+        "start": "0.27525299999999997", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0182"
+    }, 
+    "batch0_MVI_0183": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0183"
+    }, 
+    "batch0_MVI_0184": {
+        "start": "0.20930500000000002", 
+        "height": "180.79999999999998", 
+        "width": "319.646408839779", 
+        "offset_x": "0.3535911602210149", 
+        "offset_y": "0", 
+        "from_end": "0.46966", 
+        "video_name": "batch0_MVI_0184"
+    }, 
+    "batch0_MVI_0185": {
+        "start": "2.89872", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.338184", 
+        "video_name": "batch0_MVI_0185"
+    }, 
+    "batch0_MVI_0186": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0186"
+    }, 
+    "batch0_MVI_0187": {
+        "start": "0", 
+        "height": "178.8", 
+        "width": "316.11049723756906", 
+        "offset_x": "1.9447513812154615", 
+        "offset_y": "2.0999999999999943", 
+        "from_end": "1.464564", 
+        "video_name": "batch0_MVI_0187"
+    }, 
+    "batch0_MVI_0218": {
+        "start": "1.201226", 
+        "height": "179.8", 
+        "width": "317.878453038674", 
+        "offset_x": "0", 
+        "offset_y": "1.1999999999999886", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0218"
+    }, 
+    "batch0_MVI_0219": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0219"
+    }, 
+    "batch0_MVI_0210": {
+        "start": "0", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "34", 
+        "offset_y": "0", 
+        "from_end": "1.273307", 
+        "video_name": "batch0_MVI_0210"
+    }, 
+    "batch0_MVI_0211": {
+        "start": "1.9699459999999998", 
+        "height": "171.8", 
+        "width": "303.7348066298343", 
+        "offset_x": "16.26519337016572", 
+        "offset_y": "9.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0211"
+    }, 
+    "batch0_MVI_0212": {
+        "start": "0", 
+        "height": "172.78062500000001", 
+        "width": "305.4685082872928", 
+        "offset_x": "0", 
+        "offset_y": "8.219374999999985", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0212"
+    }, 
+    "batch0_MVI_0213": {
+        "start": "0.570176", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0213"
+    }, 
+    "batch0_MVI_0214": {
+        "start": "0.9438719999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.8922539999999999", 
+        "video_name": "batch0_MVI_0214"
+    }, 
+    "batch0_MVI_0215": {
+        "start": "0.5905499999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.1692889999999998", 
+        "video_name": "batch0_MVI_0215"
+    }, 
+    "batch0_MVI_0216": {
+        "start": "0", 
+        "height": "171.27125", 
+        "width": "302.8", 
+        "offset_x": "0", 
+        "offset_y": "9.728749999999991", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0216"
+    }, 
+    "batch0_MVI_0217": {
+        "start": "0.492594", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0217"
+    }, 
+    "batch0_MVI_0139": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0139"
+    }, 
+    "batch0_MVI_0138": {
+        "start": "4.947063999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0138"
+    }, 
+    "batch0_MVI_0135": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0135"
+    }, 
+    "batch0_MVI_0134": {
+        "start": "5.422337000000001", 
+        "height": "180.886875", 
+        "width": "319.8", 
+        "offset_x": "0", 
+        "offset_y": "0.11312499999999659", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0134"
+    }, 
+    "batch0_MVI_0137": {
+        "start": "2.0185", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.67895", 
+        "video_name": "batch0_MVI_0137"
+    }, 
+    "batch0_MVI_0136": {
+        "start": "4.953004", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0136"
+    }, 
+    "batch0_MVI_0131": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0131"
+    }, 
+    "batch0_MVI_0130": {
+        "start": "2.529651", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0130"
+    }, 
+    "batch0_MVI_0133": {
+        "start": "0", 
+        "height": "169.32500000000002", 
+        "width": "299.35911602209944", 
+        "offset_x": "9.900552486187852", 
+        "offset_y": "11.674999999999983", 
+        "from_end": "0.23330099999999998", 
+        "video_name": "batch0_MVI_0133"
+    }, 
+    "batch0_MVI_0132": {
+        "start": "0", 
+        "height": "139.24890625000003", 
+        "width": "246.18591160220998", 
+        "offset_x": "48.222222222222214", 
+        "offset_y": "23.129513888888887", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0132"
+    }, 
+    "batch2_MVI_0014": {
+        "start": "2.7860249999999995", 
+        "height": "172.4875", 
+        "width": "304.9502762430939", 
+        "offset_x": "5.77348066298341", 
+        "offset_y": "0", 
+        "from_end": "0.363", 
+        "video_name": "batch2_MVI_0014"
+    }, 
+    "batch2_MVI_0015": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0015"
+    }, 
+    "batch2_MVI_0016": {
+        "start": "0.056881", 
+        "height": "153.8", 
+        "width": "271.91160220994476", 
+        "offset_x": "26.044198895027613", 
+        "offset_y": "0", 
+        "from_end": "0.031026", 
+        "video_name": "batch2_MVI_0016"
+    }, 
+    "batch2_MVI_0017": {
+        "start": "0", 
+        "height": "168", 
+        "width": "297.01657458563534", 
+        "offset_x": "22.98342541436466", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0017"
+    }, 
+    "batch2_MVI_0010": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0010"
+    }, 
+    "batch2_MVI_0011": {
+        "start": "6.5772", 
+        "height": "168.55625", 
+        "width": "298", 
+        "offset_x": "9", 
+        "offset_y": "0.5", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0011"
+    }, 
+    "batch2_MVI_0012": {
+        "start": "0", 
+        "height": "168.30625", 
+        "width": "297.55801104972375", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.326249", 
+        "video_name": "batch2_MVI_0012"
+    }, 
+    "batch2_MVI_0013": {
+        "start": "3.1080170000000003", 
+        "height": "158.37500000000003", 
+        "width": "280.00000000000006", 
+        "offset_x": "32.05555555555554", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0013"
+    }, 
+    "batch2_MVI_0018": {
+        "start": "0.5203059999999999", 
+        "height": "172.671875", 
+        "width": "305.27624309392263", 
+        "offset_x": "14.72375690607737", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0018"
+    }, 
+    "batch2_MVI_0019": {
+        "start": "0", 
+        "height": "169.88914835164834", 
+        "width": "300.3565053730799", 
+        "offset_x": "4", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0019"
+    }, 
+    "batch1_MVI_0051": {
+        "start": "0.319906", 
+        "height": "155.48375000000001", 
+        "width": "274.88839779005525", 
+        "offset_x": "35.111602209944735", 
+        "offset_y": "25.516249999999985", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0051"
+    }, 
+    "batch1_MVI_0050": {
+        "start": "0", 
+        "height": "127.80000000000001", 
+        "width": "225.94475138121547", 
+        "offset_x": "45", 
+        "offset_y": "53.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0050"
+    }, 
+    "batch1_MVI_0053": {
+        "start": "0", 
+        "height": "176.9", 
+        "width": "312.7513812154696", 
+        "offset_x": "0", 
+        "offset_y": "4.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0053"
+    }, 
+    "batch1_MVI_0052": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0052"
+    }, 
+    "batch1_MVI_0055": {
+        "start": "0", 
+        "height": "159.56562499999998", 
+        "width": "282.1049723756906", 
+        "offset_x": "3.4475138121546927", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0055"
+    }, 
+    "batch1_MVI_0054": {
+        "start": "0", 
+        "height": "158.8", 
+        "width": "280.7513812154696", 
+        "offset_x": "8", 
+        "offset_y": "15.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0054"
+    }, 
+    "batch1_MVI_0057": {
+        "start": "0.660144", 
+        "height": "159.6696527777778", 
+        "width": "282.2888888888889", 
+        "offset_x": "32.9611111111111", 
+        "offset_y": "17.698506944444457", 
+        "from_end": "0.271824", 
+        "video_name": "batch1_MVI_0057"
+    }, 
+    "batch1_MVI_0056": {
+        "start": "0", 
+        "height": "152.15312500000002", 
+        "width": "269", 
+        "offset_x": "51", 
+        "offset_y": "9.242187500000005", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0056"
+    }, 
+    "batch1_MVI_0059": {
+        "start": "0", 
+        "height": "145.659375", 
+        "width": "257.5193370165746", 
+        "offset_x": "0", 
+        "offset_y": "35.34062499999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0059"
+    }, 
+    "batch1_MVI_0058": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0058"
+    }, 
+    "batch0_MVI_0166": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.87816", 
+        "video_name": "batch0_MVI_0166"
+    }, 
+    "batch0_MVI_0167": {
+        "start": "0", 
+        "height": "178.98125000000002", 
+        "width": "316.43093922651934", 
+        "offset_x": "0", 
+        "offset_y": "2.018749999999983", 
+        "from_end": "0.483483", 
+        "video_name": "batch0_MVI_0167"
+    }, 
+    "batch0_MVI_0164": {
+        "start": "1.015673", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.717145", 
+        "video_name": "batch0_MVI_0164"
+    }, 
+    "batch0_MVI_0165": {
+        "start": "2.0419199999999997", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0165"
+    }, 
+    "batch0_MVI_0162": {
+        "start": "0.2786", 
+        "height": "134.25250000000003", 
+        "width": "237.35248618784533", 
+        "offset_x": "6.199999999999989", 
+        "offset_y": "46.747499999999974", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0162"
+    }, 
+    "batch0_MVI_0163": {
+        "start": "5.2651010000000005", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.5911209999999999", 
+        "video_name": "batch0_MVI_0163"
+    }, 
+    "batch0_MVI_0160": {
+        "start": "0", 
+        "height": "176.8", 
+        "width": "312.57458563535914", 
+        "offset_x": "3.712707182320434", 
+        "offset_y": "4.199999999999989", 
+        "from_end": "0.847471", 
+        "video_name": "batch0_MVI_0160"
+    }, 
+    "batch0_MVI_0161": {
+        "start": "0.408485", 
+        "height": "139.03062500000001", 
+        "width": "245.8", 
+        "offset_x": "27.599999999999994", 
+        "offset_y": "33.969374999999985", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0161"
+    }, 
+    "batch0_MVI_0168": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.7167600000000001", 
+        "video_name": "batch0_MVI_0168"
+    }, 
+    "batch0_MVI_0169": {
+        "start": "6.2202459999999995", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0169"
+    }, 
+    "batch2_MVI_0089": {
+        "start": "0.7953330000000001", 
+        "height": "167.425", 
+        "width": "296", 
+        "offset_x": "7", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0089"
+    }, 
+    "batch2_MVI_0088": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0088"
+    }, 
+    "batch2_MVI_0058": {
+        "start": "0.6648620000000001", 
+        "height": "145.80937500000002", 
+        "width": "257.78453038674036", 
+        "offset_x": "9.607734806629836", 
+        "offset_y": "28.5953125", 
+        "from_end": "0.516329", 
+        "video_name": "batch2_MVI_0058"
+    }, 
+    "batch2_MVI_0059": {
+        "start": "0.17296", 
+        "height": "163.65875000000003", 
+        "width": "289.3414364640884", 
+        "offset_x": "11.04198895027615", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0059"
+    }, 
+    "batch2_MVI_0050": {
+        "start": "0", 
+        "height": "165.12437500000001", 
+        "width": "291.9325966850829", 
+        "offset_x": "0", 
+        "offset_y": "2.0999999999999943", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0050"
+    }, 
+    "batch2_MVI_0051": {
+        "start": "0", 
+        "height": "127.446875", 
+        "width": "225.32044198895028", 
+        "offset_x": "49.67955801104975", 
+        "offset_y": "35.51406249999999", 
+        "from_end": "2.969", 
+        "video_name": "batch2_MVI_0051"
+    }, 
+    "batch2_MVI_0052": {
+        "start": "0.272804", 
+        "height": "144.015625", 
+        "width": "254.61325966850828", 
+        "offset_x": "21.386740331491726", 
+        "offset_y": "30", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0052"
+    }, 
+    "batch2_MVI_0053": {
+        "start": "0", 
+        "height": "171.8", 
+        "width": "303.7348066298343", 
+        "offset_x": "0.26519337016571853", 
+        "offset_y": "9.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0053"
+    }, 
+    "batch2_MVI_0054": {
+        "start": "0", 
+        "height": "153.8", 
+        "width": "271.91160220994476", 
+        "offset_x": "18", 
+        "offset_y": "10", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0054"
+    }, 
+    "batch2_MVI_0055": {
+        "start": "0.29713100000000003", 
+        "height": "179.8", 
+        "width": "317.878453038674", 
+        "offset_x": "0", 
+        "offset_y": "1.1999999999999886", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0055"
+    }, 
+    "batch2_MVI_0056": {
+        "start": "0", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "22", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0056"
+    }, 
+    "batch2_MVI_0057": {
+        "start": "0", 
+        "height": "169.8", 
+        "width": "300.1988950276243", 
+        "offset_x": "16.26519337016574", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0057"
+    }, 
+    "batch2_MVI_0111": {
+        "start": "0.42468599999999995", 
+        "height": "158.76875", 
+        "width": "280.6961325966851", 
+        "offset_x": "2", 
+        "offset_y": "21.099999999999994", 
+        "from_end": "0.8780669999999999", 
+        "video_name": "batch2_MVI_0111"
+    }, 
+    "batch2_MVI_0110": {
+        "start": "0.802964", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0110"
+    }, 
+    "batch2_MVI_0113": {
+        "start": "1.4363430000000001", 
+        "height": "164.8", 
+        "width": "291.35911602209944", 
+        "offset_x": "7.3646408839778905", 
+        "offset_y": "7.099999999999994", 
+        "from_end": "1.330418", 
+        "video_name": "batch2_MVI_0113"
+    }, 
+    "batch2_MVI_0112": {
+        "start": "0", 
+        "height": "154.8", 
+        "width": "273.6795580110497", 
+        "offset_x": "12.160220994475134", 
+        "offset_y": "24.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0112"
+    }, 
+    "batch2_MVI_0115": {
+        "start": "0", 
+        "height": "172.9", 
+        "width": "305.6795580110497", 
+        "offset_x": "14.320441988950254", 
+        "offset_y": "8.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0115"
+    }, 
+    "batch2_MVI_0114": {
+        "start": "1.5116129999999999", 
+        "height": "168.165625", 
+        "width": "297.30939226519337", 
+        "offset_x": "0", 
+        "offset_y": "12.834374999999994", 
+        "from_end": "0.177464", 
+        "video_name": "batch2_MVI_0114"
+    }, 
+    "batch2_MVI_0117": {
+        "start": "0.73729", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "30.40883977900552", 
+        "offset_y": "15.199999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0117"
+    }, 
+    "batch2_MVI_0116": {
+        "start": "0.7006000000000001", 
+        "height": "163.021875", 
+        "width": "288.21546961325964", 
+        "offset_x": "0", 
+        "offset_y": "17.978125000000006", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0116"
+    }, 
+    "batch2_MVI_0119": {
+        "start": "0.122784", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.629268", 
+        "video_name": "batch2_MVI_0119"
+    }, 
+    "batch2_MVI_0118": {
+        "start": "0.40378400000000003", 
+        "height": "168.578125", 
+        "width": "298.03867403314916", 
+        "offset_x": "0", 
+        "offset_y": "12.421875", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0118"
+    }, 
+    "batch1_MVI_0015": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0015"
+    }, 
+    "batch1_MVI_0014": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0014"
+    }, 
+    "batch1_MVI_0017": {
+        "start": "0.34532999999999997", 
+        "height": "179.90000000000003", 
+        "width": "318.05524861878456", 
+        "offset_x": "1.9447513812154398", 
+        "offset_y": "1.099999999999966", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0017"
+    }, 
+    "batch1_MVI_0016": {
+        "start": "0.39718400000000004", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0016"
+    }, 
+    "batch1_MVI_0011": {
+        "start": "0.7653059999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0011"
+    }, 
+    "batch1_MVI_0010": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0010"
+    }, 
+    "batch1_MVI_0013": {
+        "start": "2.228067", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0013"
+    }, 
+    "batch1_MVI_0012": {
+        "start": "0.6005879999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0012"
+    }, 
+    "batch1_MVI_0019": {
+        "start": "0", 
+        "height": "130.346875", 
+        "width": "230.4475138121547", 
+        "offset_x": "37", 
+        "offset_y": "50.65312499999999", 
+        "from_end": "0.164049", 
+        "video_name": "batch1_MVI_0019"
+    }, 
+    "batch1_MVI_0018": {
+        "start": "0", 
+        "height": "180.203125", 
+        "width": "318.5911602209945", 
+        "offset_x": "1.4088397790055183", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0018"
+    }, 
+    "batch0_MVI_0225": {
+        "start": "0.07848000000000001", 
+        "height": "180.79999999999998", 
+        "width": "319.646408839779", 
+        "offset_x": "0.17679558011048924", 
+        "offset_y": "0.19999999999998863", 
+        "from_end": "0.30084", 
+        "video_name": "batch0_MVI_0225"
+    }, 
+    "batch0_MVI_0224": {
+        "start": "0", 
+        "height": "147.103125", 
+        "width": "260.0718232044199", 
+        "offset_x": "59.044198895027606", 
+        "offset_y": "33.896874999999994", 
+        "from_end": "0.33306399999999997", 
+        "video_name": "batch0_MVI_0224"
+    }, 
+    "batch0_MVI_0227": {
+        "start": "1.71904", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0227"
+    }, 
+    "batch0_MVI_0226": {
+        "start": "0", 
+        "height": "179.79999999999998", 
+        "width": "317.87845303867397", 
+        "offset_x": "2.1215469613260325", 
+        "offset_y": "1", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0226"
+    }, 
+    "batch0_MVI_0221": {
+        "start": "0.762348", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0221"
+    }, 
+    "batch0_MVI_0220": {
+        "start": "0.7483560000000001", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.195998", 
+        "video_name": "batch0_MVI_0220"
+    }, 
+    "batch0_MVI_0223": {
+        "start": "3.9569419999999997", 
+        "height": "161.79062500000003", 
+        "width": "286.0386740331492", 
+        "offset_x": "23", 
+        "offset_y": "19.209374999999966", 
+        "from_end": "0.22094599999999998", 
+        "video_name": "batch0_MVI_0223"
+    }, 
+    "batch0_MVI_0222": {
+        "start": "0.6854399999999999", 
+        "height": "171.45625", 
+        "width": "303.1270718232044", 
+        "offset_x": "4.497237569060758", 
+        "offset_y": "9.543749999999989", 
+        "from_end": "0.10709999999999999", 
+        "video_name": "batch0_MVI_0222"
+    }, 
+    "batch1_MVI_0082": {
+        "start": "0.6083339999999999", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0082"
+    }, 
+    "batch1_MVI_0083": {
+        "start": "0.608825", 
+        "height": "178.9025", 
+        "width": "316.29171270718234", 
+        "offset_x": "1.550276243093922", 
+        "offset_y": "2.0974999999999966", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0083"
+    }, 
+    "batch1_MVI_0080": {
+        "start": "0.028952000000000002", 
+        "height": "178.05875", 
+        "width": "314.8", 
+        "offset_x": "5.199999999999989", 
+        "offset_y": "2.9412499999999966", 
+        "from_end": "0.9688580000000001", 
+        "video_name": "batch1_MVI_0080"
+    }, 
+    "batch1_MVI_0081": {
+        "start": "0", 
+        "height": "163.8", 
+        "width": "289.5911602209945", 
+        "offset_x": "14.204419889502757", 
+        "offset_y": "17.19999999999999", 
+        "from_end": "1.101", 
+        "video_name": "batch1_MVI_0081"
+    }, 
+    "batch0_MVI_0229": {
+        "start": "1.530698", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0229"
+    }, 
+    "batch0_MVI_0228": {
+        "start": "0.391374", 
+        "height": "179.9944444444444", 
+        "width": "318.2222222222222", 
+        "offset_x": "0.8888888888888781", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0228"
+    }, 
+    "batch0_MVI_0159": {
+        "start": "0.43373199999999995", 
+        "height": "179.8", 
+        "width": "317.878453038674", 
+        "offset_x": "0", 
+        "offset_y": "0.19999999999998863", 
+        "from_end": "0.39202699999999996", 
+        "video_name": "batch0_MVI_0159"
+    }, 
+    "batch0_MVI_0158": {
+        "start": "1.622904", 
+        "height": "176.37437500000001", 
+        "width": "311.82209944751384", 
+        "offset_x": "0", 
+        "offset_y": "4.625624999999985", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0158"
+    }, 
+    "batch0_MVI_0157": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.281325", 
+        "video_name": "batch0_MVI_0157"
+    }, 
+    "batch0_MVI_0156": {
+        "start": "1.136322", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.39025200000000004", 
+        "video_name": "batch0_MVI_0156"
+    }, 
+    "batch0_MVI_0155": {
+        "start": "0", 
+        "height": "136.49687500000005", 
+        "width": "241.32044198895034", 
+        "offset_x": "27.48066298342538", 
+        "offset_y": "31.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0155"
+    }, 
+    "batch0_MVI_0154": {
+        "start": "0.8939280000000002", 
+        "height": "141.99375", 
+        "width": "251.03867403314916", 
+        "offset_x": "30.96132596685082", 
+        "offset_y": "34.47343749999997", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0154"
+    }, 
+    "batch0_MVI_0153": {
+        "start": "0", 
+        "height": "136.8", 
+        "width": "241.85635359116023", 
+        "offset_x": "26", 
+        "offset_y": "34.099999999999994", 
+        "from_end": "0.137625", 
+        "video_name": "batch0_MVI_0153"
+    }, 
+    "batch0_MVI_0152": {
+        "start": "1.9568999999999999", 
+        "height": "144.990625", 
+        "width": "256.3370165745856", 
+        "offset_x": "27.33149171270719", 
+        "offset_y": "25", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0152"
+    }, 
+    "batch0_MVI_0151": {
+        "start": "0", 
+        "height": "141.053125", 
+        "width": "249.37569060773478", 
+        "offset_x": "22.8121546961326", 
+        "offset_y": "39.946875000000006", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0151"
+    }, 
+    "batch0_MVI_0150": {
+        "start": "0", 
+        "height": "165.378125", 
+        "width": "292.38121546961327", 
+        "offset_x": "27.618784530386733", 
+        "offset_y": "11", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0150"
+    }, 
+    "batch0_MVI_0128": {
+        "start": "0", 
+        "height": "173.16491319444447", 
+        "width": "306.1479128299571", 
+        "offset_x": "1.6166666666666707", 
+        "offset_y": "7.835086805555534", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0128"
+    }, 
+    "batch0_MVI_0129": {
+        "start": "0.046845", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.53091", 
+        "video_name": "batch0_MVI_0129"
+    }, 
+    "batch0_MVI_0122": {
+        "start": "0.6966540000000001", 
+        "height": "160.09", 
+        "width": "283.032044198895", 
+        "offset_x": "5.34364640883976", 
+        "offset_y": "8.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0122"
+    }, 
+    "batch0_MVI_0123": {
+        "start": "0", 
+        "height": "157.13437499999998", 
+        "width": "277.80662983425407", 
+        "offset_x": "11.132596685082845", 
+        "offset_y": "23.865625000000023", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0123"
+    }, 
+    "batch0_MVI_0120": {
+        "start": "1.3913900000000001", 
+        "height": "130.07125", 
+        "width": "229.96022099447512", 
+        "offset_x": "60.19999999999999", 
+        "offset_y": "30.61624999999998", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0120"
+    }, 
+    "batch0_MVI_0121": {
+        "start": "1.651518", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0121"
+    }, 
+    "batch0_MVI_0126": {
+        "start": "1.383936", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "13.856353591160207", 
+        "offset_y": "12.099999999999994", 
+        "from_end": "0.091584", 
+        "video_name": "batch0_MVI_0126"
+    }, 
+    "batch0_MVI_0127": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.87084", 
+        "video_name": "batch0_MVI_0127"
+    }, 
+    "batch0_MVI_0124": {
+        "start": "0", 
+        "height": "177.87125", 
+        "width": "314.4685082872928", 
+        "offset_x": "5.531491712707179", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch0_MVI_0124"
+    }, 
+    "batch0_MVI_0125": {
+        "start": "0.53131", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.087142", 
+        "video_name": "batch0_MVI_0125"
+    }, 
+    "batch2_MVI_0021": {
+        "start": "0.173976", 
+        "height": "159.8", 
+        "width": "282.5193370165746", 
+        "offset_x": "18", 
+        "offset_y": "21.19999999999999", 
+        "from_end": "0.31632000000000005", 
+        "video_name": "batch2_MVI_0021"
+    }, 
+    "batch2_MVI_0020": {
+        "start": "0.9282239999999999", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "14", 
+        "offset_y": "16.099999999999994", 
+        "from_end": "0.14064", 
+        "video_name": "batch2_MVI_0020"
+    }, 
+    "batch2_MVI_0023": {
+        "start": "1.034184", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.681048", 
+        "video_name": "batch2_MVI_0023"
+    }, 
+    "batch2_MVI_0022": {
+        "start": "0", 
+        "height": "179.9", 
+        "width": "318.0552486187845", 
+        "offset_x": "0", 
+        "offset_y": "1.0999999999999943", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0022"
+    }, 
+    "batch2_MVI_0025": {
+        "start": "0.242512", 
+        "height": "144.8", 
+        "width": "256", 
+        "offset_x": "35", 
+        "offset_y": "36.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0025"
+    }, 
+    "batch2_MVI_0024": {
+        "start": "1.300861", 
+        "height": "166.24375", 
+        "width": "293.91160220994476", 
+        "offset_x": "0", 
+        "offset_y": "14.756249999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0024"
+    }, 
+    "batch2_MVI_0027": {
+        "start": "0.721395", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "1.0852289999999998", 
+        "video_name": "batch2_MVI_0027"
+    }, 
+    "batch2_MVI_0026": {
+        "start": "0.08858999999999999", 
+        "height": "153.8", 
+        "width": "271.91160220994476", 
+        "offset_x": "21.08839779005525", 
+        "offset_y": "19.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0026"
+    }, 
+    "batch2_MVI_0029": {
+        "start": "0", 
+        "height": "149.21187500000002", 
+        "width": "263.8", 
+        "offset_x": "9.599999999999994", 
+        "offset_y": "15.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0029"
+    }, 
+    "batch2_MVI_0028": {
+        "start": "0", 
+        "height": "147.971875", 
+        "width": "261.6077348066298", 
+        "offset_x": "8.392265193370172", 
+        "offset_y": "18", 
+        "from_end": "0.595578", 
+        "video_name": "batch2_MVI_0028"
+    }, 
+    "batch2_MVI_0108": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0108"
+    }, 
+    "batch2_MVI_0109": {
+        "start": "2.82472", 
+        "height": "179.29375000000002", 
+        "width": "316.98342541436466", 
+        "offset_x": "2", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0109"
+    }, 
+    "batch1_MVI_0048": {
+        "start": "0", 
+        "height": "164.03125", 
+        "width": "290", 
+        "offset_x": "8", 
+        "offset_y": "16.96875", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0048"
+    }, 
+    "batch1_MVI_0049": {
+        "start": "0.13061999999999999", 
+        "height": "149.71875", 
+        "width": "264.69613259668506", 
+        "offset_x": "19.651933701657462", 
+        "offset_y": "18.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0049"
+    }, 
+    "batch1_MVI_0046": {
+        "start": "0.883573", 
+        "height": "160.14375", 
+        "width": "283.1270718232044", 
+        "offset_x": "3", 
+        "offset_y": "20.85624999999999", 
+        "from_end": "0.601194", 
+        "video_name": "batch1_MVI_0046"
+    }, 
+    "batch1_MVI_0047": {
+        "start": "1.84184", 
+        "height": "170.8", 
+        "width": "301.96685082872926", 
+        "offset_x": "1.0331491712707361", 
+        "offset_y": "10.199999999999989", 
+        "from_end": "0.54054", 
+        "video_name": "batch1_MVI_0047"
+    }, 
+    "batch1_MVI_0044": {
+        "start": "0", 
+        "height": "166.92222222222222", 
+        "width": "295.1111111111111", 
+        "offset_x": "16.466666666666647", 
+        "offset_y": "12.066666666666666", 
+        "from_end": "1.134", 
+        "video_name": "batch1_MVI_0044"
+    }, 
+    "batch1_MVI_0045": {
+        "start": "0.10209", 
+        "height": "160.8", 
+        "width": "284.28729281767954", 
+        "offset_x": "14", 
+        "offset_y": "20.19999999999999", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0045"
+    }, 
+    "batch1_MVI_0042": {
+        "start": "0", 
+        "height": "178.05875", 
+        "width": "314.8", 
+        "offset_x": "5.199999999999989", 
+        "offset_y": "2.9412499999999966", 
+        "from_end": "0.42880799999999997", 
+        "video_name": "batch1_MVI_0042"
+    }, 
+    "batch1_MVI_0043": {
+        "start": "0", 
+        "height": "160.9025", 
+        "width": "284.4685082872928", 
+        "offset_x": "6.931491712707185", 
+        "offset_y": "20.097499999999997", 
+        "from_end": "0.964896", 
+        "video_name": "batch1_MVI_0043"
+    }, 
+    "batch1_MVI_0040": {
+        "start": "2.437887", 
+        "height": "167.990625", 
+        "width": "297", 
+        "offset_x": "7", 
+        "offset_y": "13.009375000000006", 
+        "from_end": "0", 
+        "video_name": "batch1_MVI_0040"
+    }, 
+    "batch1_MVI_0041": {
+        "start": "0", 
+        "height": "150.51875", 
+        "width": "266.11049723756906", 
+        "offset_x": "23.425414364640886", 
+        "offset_y": "30.48124999999999", 
+        "from_end": "4.780188000000001", 
+        "video_name": "batch1_MVI_0041"
+    }, 
+    "batch2_MVI_0065": {
+        "start": "0.641516", 
+        "height": "158.87777777777777", 
+        "width": "280.88888888888886", 
+        "offset_x": "31.99999999999999", 
+        "offset_y": "4.022222222222222", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0065"
+    }, 
+    "batch2_MVI_0064": {
+        "start": "0.32808600000000004", 
+        "height": "171.621875", 
+        "width": "303.4198895027624", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0064"
+    }, 
+    "batch2_MVI_0067": {
+        "start": "0", 
+        "height": "149.98125000000002", 
+        "width": "265.16022099447514", 
+        "offset_x": "38.839779005524804", 
+        "offset_y": "15.109375000000014", 
+        "from_end": "1.6363679999999998", 
+        "video_name": "batch2_MVI_0067"
+    }, 
+    "batch2_MVI_0066": {
+        "start": "0.263721", 
+        "height": "177.8", 
+        "width": "314.3425414364641", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0066"
+    }, 
+    "batch2_MVI_0061": {
+        "start": "9.039527000000001", 
+        "height": "167.890625", 
+        "width": "296.82320441988946", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0061"
+    }, 
+    "batch2_MVI_0060": {
+        "start": "0.301686", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0060"
+    }, 
+    "batch2_MVI_0063": {
+        "start": "0.319518", 
+        "height": "146.8", 
+        "width": "259.53591160221", 
+        "offset_x": "17.464088397790057", 
+        "offset_y": "10.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0063"
+    }, 
+    "batch2_MVI_0062": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0.71982", 
+        "video_name": "batch2_MVI_0062"
+    }, 
+    "batch2_MVI_0106": {
+        "start": "0", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0106"
+    }, 
+    "batch2_MVI_0107": {
+        "start": "0.555164", 
+        "height": "167.425", 
+        "width": "296", 
+        "offset_x": "0", 
+        "offset_y": "13.574999999999989", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0107"
+    }, 
+    "batch2_MVI_0104": {
+        "start": "0.228021", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0104"
+    }, 
+    "batch2_MVI_0105": {
+        "start": "0.842654", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0105"
+    }, 
+    "batch2_MVI_0069": {
+        "start": "0.12578799999999998", 
+        "height": "146.8", 
+        "width": "259.53591160221", 
+        "offset_x": "21.27624309392266", 
+        "offset_y": "25.099999999999994", 
+        "from_end": "0.02419", 
+        "video_name": "batch2_MVI_0069"
+    }, 
+    "batch2_MVI_0068": {
+        "start": "0", 
+        "height": "144.80000000000004", 
+        "width": "256.00000000000006", 
+        "offset_x": "45.066666666666656", 
+        "offset_y": "36.19999999999996", 
+        "from_end": "0.560188", 
+        "video_name": "batch2_MVI_0068"
+    }, 
+    "batch2_MVI_0100": {
+        "start": "0.377483", 
+        "height": "181", 
+        "width": "320", 
+        "offset_x": "0", 
+        "offset_y": "0", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0100"
+    }, 
+    "batch2_MVI_0101": {
+        "start": "2.151214", 
+        "height": "152.8", 
+        "width": "270.1436464088398", 
+        "offset_x": "42.8563535911602", 
+        "offset_y": "17.099999999999994", 
+        "from_end": "0", 
+        "video_name": "batch2_MVI_0101"
+    }
+}
